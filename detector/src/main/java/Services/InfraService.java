@@ -1,8 +1,8 @@
-package JSONServices;
+package Services;
 
 import Domain.Infrastructure.Section;
 
-public class InfrastructureServiceJSON implements Services.InfrastructureService {
+public class Infrastructure implements ServiceInterfaces.InfrastructureService {
 
 
 

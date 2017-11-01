@@ -1,4 +1,4 @@
 package Domain.Messages;
 
-public enum MessageType {
+public class RouteCache {
 }
