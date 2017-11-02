@@ -1,8 +1,9 @@
 package Services;
 
 import Domain.Infrastructure.Section;
+import ServiceInterfaces.IInfrastructureService;
 
-public class Infrastructure implements ServiceInterfaces.InfrastructureService {
+public class InfraService implements IInfrastructureService {
 
 
 

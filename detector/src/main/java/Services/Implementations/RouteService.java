@@ -1,24 +1,25 @@
-package JSONServices;
+package Services;
 
 import Domain.Infrastructure.Route;
+import ServiceInterfaces.IRouteService;
 import be.kdg.se3.services.railway.RouteServiceProxy;
 
-public class RouteServiceJSON implements Services.RouteService{
+public class RouteService implements IRouteService {
 
     private RouteServiceProxy proxy;
 
-    public RouteServiceJSON(RouteServiceProxy proxy){
-        this.proxy = proxy;
+    public RouteService(){
+        this.proxy = new RouteServiceProxy();
     }
 
     @Override
     public Route getRoute(int rideId) {
-        /*try {
-            proxy.get("url" + rideId);
+        try {
+            String routeString = proxy.get("url" + rideId);
         }
         catch (java.io.IOException e){
             e.printStackTrace();
-        }*/
+        }
         return null;
 
     }

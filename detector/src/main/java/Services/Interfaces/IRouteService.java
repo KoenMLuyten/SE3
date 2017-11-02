@@ -2,6 +2,6 @@ package ServiceInterfaces;
 
 import Domain.Infrastructure.Route;
 
-public interface RouteService {
+public interface IRouteService {
     public Route getRoute(int rideId);
 }
