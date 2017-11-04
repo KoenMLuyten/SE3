@@ -1,22 +1,22 @@
-package Services;
+package Services.Implementations;
 
 import Domain.MessageListener;
+import Domain.Messages.IncomingMessageDTO;
 import Domain.ServiceExeption;
-import ServiceInterfaces.MessageFormatter;
+import Services.Interfaces.MessageFormatter;
 import com.rabbitmq.client.*;
-import ServiceInterfaces.IMessageService;
+import Services.Interfaces.IMessageService;
 
 import java.io.IOException;
-import java.util.ArrayList;
 
 public class RabbitMq implements IMessageService {
 
-    private final String connectionString = "amqp://hjnwvnem:IZWi2g4eMtJlxOVGMNbMkvzYvuu7patt@elephant.rmq.cloudamqp.com/hjnwvnem";
+    private final String connectionString;
     private final String queueName;
     private final MessageFormatter formatter;
 
     public RabbitMq(String connectionString, String queueName, MessageFormatter formatter) {
-        //this.connectionString = connectionString;
+        this.connectionString = connectionString;
         this.queueName = queueName;
         this.formatter = formatter;
     }
@@ -26,6 +26,7 @@ public class RabbitMq implements IMessageService {
     @Override
     public void initialize(MessageListener listener) throws ServiceExeption {
         try {
+            System.out.println("Starting to initialize");
             ConnectionFactory factory = new ConnectionFactory();
             factory.setUri(connectionString);
 
@@ -49,12 +50,16 @@ public class RabbitMq implements IMessageService {
                 @Override
                 public void handleDelivery(String consumerTag, Envelope envelope, AMQP.BasicProperties properties, byte[] body)
                         throws IOException {
+                    System.out.println("MessageReceived");
                     //logger.info("Received message from RabbitMQ queue " + queueName);
                     String content = new String(body, "UTF-8");
                     //logger.debug("Message content: " + content);
                     if (listener != null) {
                         try {
-                            listener.onReceive(formatter.format(content));
+                            System.out.println("calling listener");
+                            IncomingMessageDTO messageDTO = formatter.format(content);
+                            System.out.println(messageDTO);
+                            listener.onReceive(messageDTO);
                             //logger.info("Delivered message to listener");
                         } //catch (ServiceExeption e) {
                             //logger.error("Exception during format conversion", e);

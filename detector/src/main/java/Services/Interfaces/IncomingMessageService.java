@@ -1,4 +1,4 @@
-package ServiceInterfaces;
+package Services.Interfaces;
 
 import Domain.MessageListener;
 import Domain.ServiceExeption;
