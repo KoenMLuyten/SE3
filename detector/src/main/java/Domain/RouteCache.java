@@ -1,8 +1,7 @@
-package Domain.Messages;
+package Domain;
 
 import Domain.Infrastructure.Route;
 
-import java.util.ArrayList;
 import java.util.concurrent.ConcurrentHashMap;
 
 public class RouteCache extends ConcurrentHashMap<Integer, Route>{
