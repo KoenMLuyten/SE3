@@ -1,36 +1,51 @@
-package Domain;
+package Domain.Messages;
 
+
+import java.sql.Timestamp;
 import java.util.Date;
 
 public class SignalisationMessage {
 
-        private int isClosed;
-        private int sectionId;
-        private int blockNr;
-        private Date timestamp;
+    private int sectionId;
+    private int blockNr;
+    private Timestamp timestamp;
+    private int closed;
 
-        public SignalisationMessage(int isClosed, int sectionId, int blockNr, Date timestamp){
-            this.isClosed = isClosed;
+
+    public SignalisationMessage(int isClosed, int sectionId, int blockNr, Timestamp timestamp){
             this.sectionId = sectionId;
             this.blockNr = blockNr;
             this.timestamp = timestamp;
-        }
+            this.closed = isClosed;
+    }
 
-        public Date getTimestamp() {
-            return timestamp;
-        }
+    public SignalisationMessage(IncomingMessageDTO message){
+            this.sectionId = message.getSectionId();
+            this.blockNr = message.getBlockNr();
+            this.timestamp= message.getTimestamp();
+            this.closed = message.getLastAttribute();
+    }
 
-        public int IsClosed() {
-            return isClosed;
-        }
 
-        public int getSectionId() {
-            return sectionId;
-        }
 
-        public int getBlockNr(){
-            return blockNr;
-        }
+    public int getSectionId() {
+        return sectionId;
+    }
+
+    public int getBlockNr(){
+        return blockNr;
+    }
+
+    public Timestamp getTimestamp() {
+        return timestamp;
+    }
+
+    public int getClosed() {
+        return closed;
+    }
+
+
+
 }
 
 

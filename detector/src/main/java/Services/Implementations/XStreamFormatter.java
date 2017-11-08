@@ -1,9 +1,9 @@
-package Services;
+package Services.Implementations;
 
-import Domain.Messages.IncomingMessage;
 import Domain.Messages.IncomingMessageDTO;
-import Domain.ServiceExeption;
-import ServiceInterfaces.MessageFormatter;
+import Domain.Messages.OutGoingMessage;
+import Domain.ServiceException;
+import Services.Interfaces.MessageFormatter;
 import com.thoughtworks.xstream.XStream;
 
 public class XStreamFormatter implements MessageFormatter{
@@ -14,14 +14,27 @@ public class XStreamFormatter implements MessageFormatter{
     }
 
     @Override
-    public IncomingMessage format(String messageContent) throws ServiceExeption {
+    public IncomingMessageDTO format(String messageContent) throws ServiceException {
         IncomingMessageDTO out;
         try {
             out = (IncomingMessageDTO) xStream.fromXML(messageContent);
         }
         catch (Exception e){
-            throw new ServiceExeption("Error during message conversion", e);
+            throw new ServiceException("Error during message conversion", e);
         }
         return out;
     }
+
+    @Override
+    public String unformat(OutGoingMessage message) throws ServiceException {
+        String out;
+        try {
+            out = xStream.toXML(message);
+        }
+        catch (Exception e){
+            throw new ServiceException("Error during message conversion", e);
+        }
+        return out;
+    }
+
 }

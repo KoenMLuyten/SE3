@@ -1,23 +1,44 @@
-package CollisionControl;
+package Domain.Checks;
 
 import Domain.Messages.DetectionMessage;
-import Domain.Messages.IMessage;
 
-public class CompositeChecker implements IChecker {
+import java.util.ArrayList;
+import java.util.concurrent.*;
+import java.util.function.Supplier;
 
-    private DetectionCache cache;
-    private IChecker[] checkers;
+public class CompositeChecker implements IChecker{
 
-    public CompositeChecker(){
-        this.cache = new DetectionMap();
+    private ArrayList<IChecker> checkers;
+
+    public CompositeChecker(ArrayList<IChecker> checkers){
+        this.checkers = checkers;
     }
 
     @Override
-    public CheckResult check(IMessage message, DetectionCache cache) {
-        cache.add((DetectionMessage) message);
+    public CheckResult check(DetectionMessage message) {
+        ArrayList<CheckResult> results = new ArrayList<>();
+        ExecutorCompletionService<CheckResult> executorCompletionService = new ExecutorCompletionService<CheckResult>(Executors.newFixedThreadPool(checkers.size()));
         for (IChecker checker : checkers) {
-            checker.check(message, cache);
+            Callable<CheckResult> task = () -> {
+                return checker.check(message);
+            };
+            executorCompletionService.submit(task);
         }
-        return null;
+        for (int i = 0; i < checkers.size(); i++) {
+            try {
+                Future<CheckResult> resultFuture = executorCompletionService.take();
+                results.add(resultFuture.get());
+            }
+            catch (InterruptedException e){
+                System.out.println("interruptedException");
+                // TODO : Log
+            }
+            catch (ExecutionException e){
+                System.out.println("executionException");
+                // TODO : Log
+            }
+        }
+        CheckResult out = CheckResolver.resolve(results);
+        return out;
     }
 }

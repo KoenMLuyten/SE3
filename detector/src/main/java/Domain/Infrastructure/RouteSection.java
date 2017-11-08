@@ -1,4 +1,4 @@
-package Domain;
+package Domain.Infrastructure;
 
 public class RouteSection {
     private int sectionID;
@@ -23,5 +23,15 @@ public class RouteSection {
 
     public void setSpeed(int speed) {
         this.speed = speed;
+    }
+
+    @Override
+    public boolean equals(Object obj) {
+        if (obj != null && obj instanceof RouteSection){
+            return ((RouteSection) obj).getSectionID() == sectionID;
+        }
+        else {
+            return false;
+        }
     }
 }

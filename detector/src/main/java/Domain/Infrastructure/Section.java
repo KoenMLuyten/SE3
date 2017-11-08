@@ -1,15 +1,15 @@
-package Domain;
+package Domain.Infrastructure;
 
 public class Section {
 
     private  int sectionID;
     private int numberOfBlocks;
     private int blockLenght;
-    private String crossings;
+    private int[] crossings;
     private boolean singleDirection;
     private int[] highBlocknumberSectionIds;
 
-    public Section(int sectionID, int numberOfBlocks, int blockLenght, String crossings, boolean singleDirection, int[] highBlocknumberSectionIds){
+    public Section(int sectionID, int numberOfBlocks, int blockLenght, int[] crossings, boolean singleDirection, int[] highBlocknumberSectionIds){
         this.sectionID = sectionID;
         this.numberOfBlocks = numberOfBlocks;
         this.blockLenght = blockLenght;
@@ -30,7 +30,7 @@ public class Section {
         return blockLenght;
     }
 
-    public String getCrossings() {
+    public int[] getCrossings() {
         return crossings;
     }
 

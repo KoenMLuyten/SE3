@@ -1,32 +1,39 @@
 package Services.Implementations;
 
 import Domain.MessageListener;
+import Domain.MessageRecorder;
 import Domain.Messages.IncomingMessageDTO;
-import Domain.ServiceExeption;
+import Domain.ServiceException;
 import Services.Interfaces.MessageFormatter;
 import com.rabbitmq.client.*;
-import Services.Interfaces.IMessageService;
+import Services.Interfaces.IncomingMessageService;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 
 import java.io.IOException;
 
-public class RabbitMq implements IMessageService {
+public class IncomingRabbitMq implements IncomingMessageService {
 
     private final String connectionString;
-    private final String queueName;
     private final MessageFormatter formatter;
+    private Connection connection;
+    private Channel channel;
+    private Logger logger = LoggerFactory.getLogger(IncomingRabbitMq.class);
+    private MessageRecorder recorder;
 
-    public RabbitMq(String connectionString, String queueName, MessageFormatter formatter) {
+    public IncomingRabbitMq(String connectionString, String queueName, MessageFormatter formatter) {
         this.connectionString = connectionString;
-        this.queueName = queueName;
         this.formatter = formatter;
     }
 
-    private Connection connection;
-    private Channel channel;
     @Override
-    public void initialize(MessageListener listener) throws ServiceExeption {
+    public void setRecorder(MessageRecorder recorder) {
+        this.recorder = recorder;
+    }
+
+    @Override
+    public void initialize(MessageListener listener, String queueName) throws ServiceException {
         try {
-            System.out.println("Starting to initialize");
             ConnectionFactory factory = new ConnectionFactory();
             factory.setUri(connectionString);
 
@@ -37,52 +44,44 @@ public class RabbitMq implements IMessageService {
             connection = factory.newConnection();
             channel = connection.createChannel();
 
-            channel.queueDeclare(queueName,
-                    false, /* non-durable */
-                    false, /* non-exclusive */
-                    false, /* do not auto delete */
-                    null); /* no other construction arguments */
-
-            //logger.info("Using uri '" + connectionString + "'");
-            //logger.info("Using queue '" + queueName + "'");
+            channel.queueDeclare(queueName, false, false, false, null);
 
             Consumer consumer = new DefaultConsumer(channel) {
                 @Override
                 public void handleDelivery(String consumerTag, Envelope envelope, AMQP.BasicProperties properties, byte[] body)
-                        throws IOException {
-                    System.out.println("MessageReceived");
-                    //logger.info("Received message from RabbitMQ queue " + queueName);
+                        throws IOException { ;
+                    logger.info("Received message from RabbitMQ queue " + queueName);
                     String content = new String(body, "UTF-8");
-                    //logger.debug("Message content: " + content);
+                    if (recorder != null){
+                        recorder.record(content);
+                    }
                     if (listener != null) {
                         try {
-                            System.out.println("calling listener");
                             IncomingMessageDTO messageDTO = formatter.format(content);
-                            System.out.println(messageDTO);
                             listener.onReceive(messageDTO);
-                            //logger.info("Delivered message to listener");
-                        } //catch (ServiceExeption e) {
-                            //logger.error("Exception during format conversion", e);
-                            //listener.onError(e); // log & throw anti-pattern....}
+                            logger.info("Delivered message to listener");
+                        } catch (ServiceException e) {
+                            logger.error("Exception during format conversion", e);
+                        }
                         catch (Exception e) {
-                            //logger.error("Exception during callback to listener", e);
+                            logger.error("Exception during callback to listener", e);
                         }
                     }
                 }
             };
-            channel.basicConsume(queueName, true, consumer);
+            channel.basicConsume(queueName, true , consumer);
 
         } catch (Exception e) {
-            throw new ServiceExeption("Error during RabbitMQ channel initialisation", e);
+            throw new ServiceException("Error during RabbitMQ channel initialisation", e);
         }
     }
 
-    public void shutDown() throws ServiceExeption {
+    public void shutDown() throws ServiceException {
         try {
             channel.close();
             connection.close();
         } catch (Exception e) {
-            throw new ServiceExeption("Unable to close connection to RabbitMQ", e);
+            throw new ServiceException("Unable to close connection to RabbitMQ", e);
         }
     }
 }

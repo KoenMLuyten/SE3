@@ -1,8 +1,10 @@
-package ServiceInterfaces;
+package Services.Interfaces;
 
-import Domain.Messages.IncomingMessage;
-import Domain.ServiceExeption;
+import Domain.Messages.IncomingMessageDTO;
+import Domain.Messages.OutGoingMessage;
+import Domain.ServiceException;
 
 public interface MessageFormatter {
-    IncomingMessage format(String messageContent) throws ServiceExeption;
+    IncomingMessageDTO format(String messageContent) throws ServiceException;
+    String unformat(OutGoingMessage message) throws ServiceException;
 }

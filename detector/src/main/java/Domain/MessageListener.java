@@ -1,10 +1,15 @@
-package CollisionControl;
+package Domain;
 
-import Domain.Messages.IMessage;
+
+import Domain.Messages.IncomingMessageDTO;
 
 public interface MessageListener {
 
-    void onreceive(IMessage message);
+    void onReceive(IncomingMessageDTO message);
+
+    void start();
+
+    void stop();
 
 
 }

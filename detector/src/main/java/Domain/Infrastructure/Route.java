@@ -1,4 +1,4 @@
-package Domain;
+package Domain.Infrastructure;
 
 import java.util.ArrayList;
 

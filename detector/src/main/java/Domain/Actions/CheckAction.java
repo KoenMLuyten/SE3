@@ -1,4 +1,9 @@
-package CollisionControl;
+package Domain.Actions;
 
-public interface CheckAction {
+
+import Services.Interfaces.OutgoingMessageService;
+
+public interface CheckAction extends Runnable{
+    int getRideId();
+    void setMessageService(OutgoingMessageService messageService);
 }

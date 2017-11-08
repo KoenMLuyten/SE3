@@ -1,7 +1,8 @@
-package ServiceInterfaces;
+package Services.Interfaces;
 
 import Domain.Infrastructure.Section;
+import Domain.ServiceException;
 
 public interface IInfrastructureService {
-    public Section getSection(int sectionId);
+    Section getSection(int sectionId) throws ServiceException;
 }

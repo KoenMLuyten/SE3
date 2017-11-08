@@ -1,9 +1,11 @@
 package Services.Interfaces;
 
 import Domain.MessageListener;
-import Domain.ServiceExeption;
+import Domain.MessageRecorder;
+import Domain.ServiceException;
 
-public interface IMessageService {
-    void initialize(MessageListener listener) throws ServiceExeption;
-    void shutDown() throws ServiceExeption;
+public interface IncomingMessageService {
+    void initialize(MessageListener listener, String queuename) throws ServiceException;
+    void shutDown() throws ServiceException;
+    void setRecorder(MessageRecorder recorder);
 }
