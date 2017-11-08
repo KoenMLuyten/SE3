@@ -58,8 +58,15 @@ public class Test {
 
 
         DummyQueue dummyQueue = new DummyQueue(inMessageString,detectionQueueName);
-        dummyQueue.start();
-        signalisationListener.start();
-        detectionListener.start();
+
+        //signalisationListener.start();
+        //detectionListener.start();
+        //dummyQueue.start();
+
+        IncomingFileReader reader = new IncomingFileReader(detectionListener,signalisationListener,formatter);
+        reader.start("input.txt");
+
+
+
     }
 }
