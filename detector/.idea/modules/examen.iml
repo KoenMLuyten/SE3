@@ -41,5 +41,7 @@
     <orderEntry type="library" scope="TEST" name="Gradle: xmlpull:xmlpull:1.1.3.1" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: xpp3:xpp3_min:1.1.4c" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: org.hamcrest:hamcrest-core:1.3" level="project" />
+    <orderEntry type="library" name="infrastructure-service-1" level="project" />
+    <orderEntry type="library" name="route-service-1" level="project" />
   </component>
 </module>

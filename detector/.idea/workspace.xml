@@ -5,55 +5,54 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="51cc9d8e-29a6-4b61-bc8c-80f3b2576fe3" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_thoughtworks_xstream_xstream_1_4_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__xmlpull_xmlpull_1_1_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__xpp3_xpp3_min_1_1_4c.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/Domain/Actions/CheckAction.java" afterPath="$PROJECT_DIR$/src/main/java/Domain/Entitities/Actions/CheckAction.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/Domain/Actions/SpeedAction.java" afterPath="$PROJECT_DIR$/src/main/java/Domain/Entitities/Actions/SpeedAction.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/Domain/Actions/StopAction.java" afterPath="$PROJECT_DIR$/src/main/java/Domain/Entitities/Actions/StopAction.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/Domain/Checks/CheckResolver.java" afterPath="$PROJECT_DIR$/src/main/java/Domain/Core/Checks/CheckResolver.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/Domain/Checks/CheckResult.java" afterPath="$PROJECT_DIR$/src/main/java/Domain/Core/Checks/CheckResult.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/Domain/Checks/CompositeChecker.java" afterPath="$PROJECT_DIR$/src/main/java/Domain/Core/Checks/CompositeChecker.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/Domain/Checks/H2HChecker.java" afterPath="$PROJECT_DIR$/src/main/java/Domain/Core/Checks/H2HChecker.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/Domain/Checks/H2TChecker.java" afterPath="$PROJECT_DIR$/src/main/java/Domain/Core/Checks/H2TChecker.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/Domain/Checks/IChecker.java" afterPath="$PROJECT_DIR$/src/main/java/Domain/Core/Checks/IChecker.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/Domain/Checks/SignChecker.java" afterPath="$PROJECT_DIR$/src/main/java/Domain/Core/Checks/SignChecker.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/Domain/DetectionHandler.java" afterPath="$PROJECT_DIR$/src/main/java/Domain/Core/MessageHandlers/DetectionHandler.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/Domain/DetectionListener.java" afterPath="$PROJECT_DIR$/src/main/java/Domain/Core/MessageListeners/DetectionListener.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/Domain/InfraCache.java" afterPath="$PROJECT_DIR$/src/main/java/Domain/Core/ServiceCaches/InfraCache.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/Domain/Infrastructure/Route.java" afterPath="$PROJECT_DIR$/src/main/java/Domain/Entitities/Infrastructure/Route.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/Domain/Infrastructure/RouteSection.java" afterPath="$PROJECT_DIR$/src/main/java/Domain/Entitities/Infrastructure/RouteSection.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/Domain/Infrastructure/Section.java" afterPath="$PROJECT_DIR$/src/main/java/Domain/Entitities/Infrastructure/Section.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/Domain/InfrastructureHandler.java" afterPath="$PROJECT_DIR$/src/main/java/Domain/Core/ServiceHandlers/InfrastructureHandler.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/Domain/Maps/DetectionMap.java" afterPath="$PROJECT_DIR$/src/main/java/Domain/Core/Maps/DetectionMap.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/Domain/Maps/SignalisationMap.java" afterPath="$PROJECT_DIR$/src/main/java/Domain/Core/Maps/SignalisationMap.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/Domain/MessageListener.java" afterPath="$PROJECT_DIR$/src/main/java/Domain/Core/MessageListeners/MessageListener.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/Domain/MessageRecorder.java" afterPath="$PROJECT_DIR$/src/main/java/Domain/Recorder/MessageRecorder.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/Domain/Messages/DetectionMessage.java" afterPath="$PROJECT_DIR$/src/main/java/Domain/Entitities/Messages/DetectionMessage.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/Domain/Messages/IncomingMessageDTO.java" afterPath="$PROJECT_DIR$/src/main/java/Domain/Entitities/Messages/IncomingMessageDTO.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/Domain/Messages/OutGoingMessage.java" afterPath="$PROJECT_DIR$/src/main/java/Domain/Entitities/Messages/OutGoingMessage.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/Domain/Messages/OutGoingStopMessage.java" afterPath="$PROJECT_DIR$/src/main/java/Domain/Entitities/Messages/OutGoingStopMessage.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/Domain/Messages/OutgoingSpeedMessage.java" afterPath="$PROJECT_DIR$/src/main/java/Domain/Entitities/Messages/OutgoingSpeedMessage.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/Domain/Messages/SignalisationMessage.java" afterPath="$PROJECT_DIR$/src/main/java/Domain/Entitities/Messages/SignalisationMessage.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/Domain/RouteCache.java" afterPath="$PROJECT_DIR$/src/main/java/Domain/Core/ServiceCaches/RouteCache.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/Domain/RouteHandler.java" afterPath="$PROJECT_DIR$/src/main/java/Domain/Core/ServiceHandlers/RouteHandler.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/Domain/ServiceException.java" afterPath="$PROJECT_DIR$/src/main/java/Domain/Entitities/Exceptions/ServiceException.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/Domain/SignalisationHandler.java" afterPath="$PROJECT_DIR$/src/main/java/Domain/Core/MessageHandlers/SignalisationHandler.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/Domain/SignalisationListener.java" afterPath="$PROJECT_DIR$/src/main/java/Domain/Core/MessageListeners/SignalisationListener.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/xstream.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/classes/Domain/Actions/CheckAction.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/classes/Domain/Actions/SpeedAction.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/classes/Domain/Actions/StopAction.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/classes/Domain/Checks/CheckResolver.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/classes/Domain/Checks/CheckResult.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/classes/Domain/Checks/CompositeChecker.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/classes/Domain/Checks/H2HChecker.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/classes/Domain/Checks/H2TChecker.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/classes/Domain/Checks/IChecker.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/classes/Domain/Checks/SignChecker.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/classes/Domain/DetectionHandler.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/classes/Domain/DetectionListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/classes/Domain/InfraCache.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/classes/Domain/Infrastructure/Route.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/classes/Domain/Infrastructure/RouteSection.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/classes/Domain/Infrastructure/Section.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/classes/Domain/InfrastructureHandler.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/classes/Domain/Maps/DetectionMap.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/classes/Domain/Maps/SignalisationMap.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/classes/Domain/MessageListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/classes/Domain/MessageRecorder.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/classes/Domain/Messages/DetectionMessage.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/classes/Domain/Messages/IncomingMessageDTO.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/classes/Domain/Messages/OutGoingMessage.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/classes/Domain/Messages/OutGoingStopMessage.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/classes/Domain/Messages/OutgoingSpeedMessage.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/classes/Domain/Messages/SignalisationMessage.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/classes/Domain/RouteCache.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/classes/Domain/RouteHandler.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/classes/Domain/ServiceException.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/classes/Domain/SignalisationHandler.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/classes/Domain/SignalisationListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/test/classes/Test.class" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/classes/Services/Implementations/IncomingFileReader.class" afterPath="$PROJECT_DIR$/out/production/classes/Services/Implementations/IncomingFileReader.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/classes/Services/Implementations/IncomingRabbitMq$1.class" afterPath="$PROJECT_DIR$/out/production/classes/Services/Implementations/IncomingRabbitMq$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/classes/Services/Implementations/IncomingRabbitMq.class" afterPath="$PROJECT_DIR$/out/production/classes/Services/Implementations/IncomingRabbitMq.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/classes/Services/Implementations/InfraService.class" afterPath="$PROJECT_DIR$/out/production/classes/Services/Implementations/InfraService.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/classes/Services/Implementations/OutgoingRabbitMq.class" afterPath="$PROJECT_DIR$/out/production/classes/Services/Implementations/OutgoingRabbitMq.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/classes/Services/Implementations/RouteService.class" afterPath="$PROJECT_DIR$/out/production/classes/Services/Implementations/RouteService.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/classes/Services/Implementations/XStreamFormatter.class" afterPath="$PROJECT_DIR$/out/production/classes/Services/Implementations/XStreamFormatter.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/classes/Services/Interfaces/IInfrastructureService.class" afterPath="$PROJECT_DIR$/out/production/classes/Services/Interfaces/IInfrastructureService.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/classes/Services/Interfaces/IRouteService.class" afterPath="$PROJECT_DIR$/out/production/classes/Services/Interfaces/IRouteService.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/classes/Services/Interfaces/IncomingMessageService.class" afterPath="$PROJECT_DIR$/out/production/classes/Services/Interfaces/IncomingMessageService.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/classes/Services/Interfaces/MessageFormatter.class" afterPath="$PROJECT_DIR$/out/production/classes/Services/Interfaces/MessageFormatter.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/classes/Services/Interfaces/OutgoingMessageService.class" afterPath="$PROJECT_DIR$/out/production/classes/Services/Interfaces/OutgoingMessageService.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/examen.iml" afterPath="$PROJECT_DIR$/.idea/modules/examen.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.gradle" afterPath="$PROJECT_DIR$/build.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/Services/Implementations/IncomingFileReader.java" afterPath="$PROJECT_DIR$/src/main/java/Services/Implementations/IncomingFileReader.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/Services/Implementations/IncomingRabbitMq.java" afterPath="$PROJECT_DIR$/src/main/java/Services/Implementations/IncomingRabbitMq.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/Services/Implementations/InfraService.java" afterPath="$PROJECT_DIR$/src/main/java/Services/Implementations/InfraService.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/Services/Implementations/OutgoingRabbitMq.java" afterPath="$PROJECT_DIR$/src/main/java/Services/Implementations/OutgoingRabbitMq.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/Services/Implementations/RouteService.java" afterPath="$PROJECT_DIR$/src/main/java/Services/Implementations/RouteService.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/Services/Implementations/XStreamFormatter.java" afterPath="$PROJECT_DIR$/src/main/java/Services/Implementations/XStreamFormatter.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/Services/Interfaces/IInfrastructureService.java" afterPath="$PROJECT_DIR$/src/main/java/Services/Interfaces/IInfrastructureService.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/Services/Interfaces/IRouteService.java" afterPath="$PROJECT_DIR$/src/main/java/Services/Interfaces/IRouteService.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/Services/Interfaces/IncomingMessageService.java" afterPath="$PROJECT_DIR$/src/main/java/Services/Interfaces/IncomingMessageService.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/Services/Interfaces/MessageFormatter.java" afterPath="$PROJECT_DIR$/src/main/java/Services/Interfaces/MessageFormatter.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/Services/Interfaces/OutgoingMessageService.java" afterPath="$PROJECT_DIR$/src/main/java/Services/Interfaces/OutgoingMessageService.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/Test.java" afterPath="$PROJECT_DIR$/src/test/java/Test.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -73,11 +72,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ServiceException.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Domain/Entitities/Exceptions/ServiceException.java">
+      <file leaf-file-name="Test.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            <state relative-caret-position="518">
+              <caret line="57" column="80" lean-forward="false" selection-start-line="57" selection-start-column="80" selection-end-line="57" selection-end-column="80" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="H2TChecker.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Domain/Core/Checks/H2TChecker.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="541">
+              <caret line="50" column="36" lean-forward="true" selection-start-line="50" selection-start-column="36" selection-end-line="50" selection-end-column="36" />
               <folding />
             </state>
           </provider>
@@ -92,28 +101,6 @@
                 <element signature="method#nextFromBuffer#0;class#SignalisationListener#0" expanded="false" />
                 <element signature="method#stop#0;class#SignalisationListener#0" expanded="false" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="InfrastructureHandler.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Domain/Core/ServiceHandlers/InfrastructureHandler.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-7">
-              <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RouteHandler.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Domain/Core/ServiceHandlers/RouteHandler.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -173,13 +160,27 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SignalisationHandler.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SignalisationHandler.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Domain/Core/MessageHandlers/SignalisationHandler.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
               <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
               <folding>
                 <element signature="method#updateMap#0;class#SignalisationHandler#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="InfraService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Services/Implementations/InfraService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="26" lean-forward="false" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#InfraService#0;class#InfraService#0" expanded="false" />
+                <element signature="method#getSection#0;class#InfraService#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -492,11 +493,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/Domain/MessageHandler.java" />
         <option value="$PROJECT_DIR$/src/main/java/Services/Interfaces/OutgoingMessageService.java" />
         <option value="$PROJECT_DIR$/input.txt" />
         <option value="$PROJECT_DIR$/output.txt" />
-        <option value="$PROJECT_DIR$/src/test/java/Test.java" />
         <option value="$PROJECT_DIR$/src/main/java/Domain/Actions/CheckAction.java" />
         <option value="$PROJECT_DIR$/src/main/java/Domain/Actions/SpeedAction.java" />
         <option value="$PROJECT_DIR$/src/main/java/Domain/Actions/StopAction.java" />
@@ -543,6 +542,8 @@
         <option value="$PROJECT_DIR$/src/main/java/Domain/MessageListeners/DetectionListener.java" />
         <option value="$PROJECT_DIR$/src/main/java/Domain/MessageHandlers/SignalisationHandler.java" />
         <option value="$PROJECT_DIR$/src/main/java/Domain/Core/MessageHandlers/SignalisationHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Domain/Core/Checks/H2TChecker.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Test.java" />
       </list>
     </option>
   </component>
@@ -608,6 +609,25 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="Domain" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="examen" type="b2602c69:ProjectViewProjectNode" />
+              <item name="detector" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Domain" type="462c0819:PsiDirectoryNode" />
+              <item name="Core" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="examen" type="b2602c69:ProjectViewProjectNode" />
+              <item name="detector" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Domain" type="462c0819:PsiDirectoryNode" />
+              <item name="Core" type="462c0819:PsiDirectoryNode" />
+              <item name="Checks" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="examen" type="b2602c69:ProjectViewProjectNode" />
@@ -787,7 +807,7 @@
       <workItem from="1509618429276" duration="14909000" />
       <workItem from="1509796469692" duration="26547000" />
       <workItem from="1510037827909" duration="48225000" />
-      <workItem from="1510175020529" duration="13156000" />
+      <workItem from="1510175020529" duration="13578000" />
     </task>
     <task id="LOCAL-00001" summary="Section constructor &amp; getters">
       <created>1509294678600</created>
@@ -800,10 +820,11 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="137917000" />
+    <option name="totallyTimeSpent" value="138339000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-372" y="-1080" width="1920" height="1080" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -818,14 +839,15 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16145833" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16145833" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32882884" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -833,7 +855,6 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32965517" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32882884" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -989,6 +1010,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="379">
           <caret line="37" column="0" lean-forward="false" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1091,14 +1113,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="154" lean-forward="false" selection-start-line="5" selection-start-column="154" selection-end-line="5" selection-end-column="154" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="69" column="8" lean-forward="false" selection-start-line="69" selection-start-column="8" selection-end-line="69" selection-end-column="8" />
           <folding />
         </state>
       </provider>
@@ -1231,17 +1245,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Services/Implementations/InfraService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="15" selection-end-column="4" />
-          <folding>
-            <element signature="method#InfraService#0;class#InfraService#0" expanded="false" />
-            <element signature="method#getSection#0;class#InfraService#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Services/Implementations/RouteService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -1286,14 +1289,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="16" column="78" lean-forward="false" selection-start-line="16" selection-start-column="78" selection-end-line="16" selection-end-column="78" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Domain/Core/Checks/H2TChecker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="430">
-          <caret line="60" column="131" lean-forward="false" selection-start-line="60" selection-start-column="131" selection-end-line="60" selection-end-column="131" />
           <folding />
         </state>
       </provider>
@@ -1416,6 +1411,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Services/Implementations/InfraService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="26" lean-forward="false" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#InfraService#0;class#InfraService#0" expanded="false" />
+            <element signature="method#getSection#0;class#InfraService#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Domain/Core/Checks/H2TChecker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="541">
+          <caret line="50" column="36" lean-forward="true" selection-start-line="50" selection-start-column="36" selection-end-line="50" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="518">
+          <caret line="57" column="80" lean-forward="false" selection-start-line="57" selection-start-column="80" selection-end-line="57" selection-end-column="80" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
   </component>
   <component name="masterDetails">
     <states>
@@ -1493,11 +1516,11 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>xstream</last-edited>
+          <last-edited>route-service-1</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.6632184" />
+                <option value="0.20689656" />
               </list>
             </option>
           </splitter-proportions>

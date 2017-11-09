@@ -55,7 +55,7 @@ public class Test {
 
         ArrayList<IChecker> checkers = new ArrayList<>();
         checkers.add(new H2HChecker(infrastructureHandler, routeHandler));
-        checkers.add(new H2TChecker(routeHandler, infrastructureHandler, 5));
+        checkers.add(new H2TChecker(routeHandler, infrastructureHandler, 5, 0.5f));
         checkers.add(new SignChecker(infrastructureHandler, routeHandler, 5));
         IChecker checker = new CompositeChecker(checkers);
 
