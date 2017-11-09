@@ -6,6 +6,9 @@ import Domain.ServiceException;
 import Services.Interfaces.MessageFormatter;
 import com.thoughtworks.xstream.XStream;
 
+/*
+* This class is responsible for formatting an incomming message as an xml-string to an incomingMessageDTO and unformatting an OutgoingMessage to an xml-string
+* */
 public class XStreamFormatter implements MessageFormatter{
     private XStream xStream;
 

@@ -1,5 +1,10 @@
 package Domain.Infrastructure;
 
+
+
+/*
+* This class represents a Section as returned by the InfrastructureService
+* */
 public class Section {
 
     private  int sectionID;

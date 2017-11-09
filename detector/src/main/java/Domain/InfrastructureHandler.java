@@ -1,10 +1,12 @@
 package Domain;
 
 import Domain.Infrastructure.Section;
-import Services.Implementations.InfraService;
 import Services.Interfaces.IInfrastructureService;
-import Services.Interfaces.IRouteService;
 
+
+/*
+* This class handles InfrastructureService, it checks whether it has the requested Section cached and otherwise makes a call to InfrastructureService to get te requested section, caching it in the process
+* */
 public class InfrastructureHandler implements IInfrastructureService{
     private InfraCache cache;
     private IInfrastructureService infraService;

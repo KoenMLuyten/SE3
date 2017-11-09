@@ -7,6 +7,11 @@ import Services.Interfaces.IncomingMessageService;
 
 import java.util.ArrayList;
 
+
+/*
+* This class is responsible for handling a single signalisation message
+* by updating the signalisationMap
+* */
 public class SignalisationHandler {
 
     private final SignalisationMap map = SignalisationMap.getMapInstance();

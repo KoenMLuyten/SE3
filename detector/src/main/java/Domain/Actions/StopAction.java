@@ -1,10 +1,14 @@
 package Domain.Actions;
 
-import Domain.Actions.CheckAction;
+
 import Domain.Messages.OutGoingStopMessage;
 import Domain.ServiceException;
 import Services.Interfaces.OutgoingMessageService;
 
+
+/*
+* Class representing the action of sending out a StopMessage to the signaler;
+* */
 public class StopAction implements CheckAction {
 
     private int rideId;
@@ -15,6 +19,9 @@ public class StopAction implements CheckAction {
         this.rideId = rideId;
     }
 
+    /*
+    * Method overriden from Runnable, puts the message this class represents on queue
+    * When there is a serviceEcxeption while trying to put message on queue it keeps triying until it's thread is interuppted*/
     public void run(){
         try {
             messageService.setupQueue(ACTION_QUEUENAME);

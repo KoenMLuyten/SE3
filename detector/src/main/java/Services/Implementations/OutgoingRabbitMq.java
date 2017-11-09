@@ -9,6 +9,10 @@ import com.rabbitmq.client.ConnectionFactory;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
+/*
+* This class is a publisher for RabbitMQ
+* it takes an OutogoingMessage and puts it on the appropriate queue
+* */
 public class OutgoingRabbitMq implements OutgoingMessageService {
 
     private final String connectionString;
@@ -59,8 +63,10 @@ public class OutgoingRabbitMq implements OutgoingMessageService {
             channel.basicPublish("", queueName, null, xmlMessage.getBytes());
             recorder.record(xmlMessage);
             logger.info("Message published");
-            closeQueue();
-        } catch (Exception e) {
+        }catch (ServiceException e){
+         throw e;
+        }
+        catch (Exception e) {
             throw new ServiceException("Failed to put message on queue", e);
         }
     }

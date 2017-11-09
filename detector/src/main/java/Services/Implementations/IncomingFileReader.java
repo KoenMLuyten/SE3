@@ -1,7 +1,6 @@
 package Services.Implementations;
 
 import Domain.*;
-import Services.Interfaces.IncomingMessageService;
 import Services.Interfaces.MessageFormatter;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -11,6 +10,11 @@ import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
 
+
+/*
+* This class reads a file of detection/signalisation messages in XML-format and notifies the listener
+* It is intented for regression testing/ load testing the application
+* */
 public class IncomingFileReader {
 
     private MessageListener detectionListener;
@@ -41,11 +45,11 @@ public class IncomingFileReader {
                     detectionListener.onReceive(formatter.format(newLine));
                     newLine = "";
                 }
-                if (newLine.equals("<signalisationMessage>")){
+                if (newLine.equals("<detectionMessage>")){
                     while (!(nextLine=reader.readLine()).trim().equals("</signalisationMessage>")){
                         newLine = newLine + "\n" + nextLine;
                     }
-                    newLine = newLine + "</signalisationMessage>";
+                    newLine = newLine + "</detectionMessage>";
                     signalisationListener.onReceive(formatter.format(newLine));
                     newLine = "";
                 }

@@ -4,28 +4,38 @@ import Domain.Messages.OutgoingSpeedMessage;
 import Domain.ServiceException;
 import Services.Interfaces.OutgoingMessageService;
 
+
+/*
+  *Class representing the action of sending out a speed message to the simulator
+  * */
 public class SpeedAction implements CheckAction, Runnable{
 
     private int rideId;
     private int speed;
-    private final static String ACTION_QUEUENAME="speed_messages";
+    private int sectionId;
+    private final static String ACTION_QUEUENAME="Speed Messages";
     private OutgoingMessageService messageService;
 
 
-    public SpeedAction(int rideId, int speed){
+    public SpeedAction(int rideId, int speed, int sectionId){
         this.rideId = rideId;
         this.speed = speed;
+        this.sectionId = sectionId;
     }
 
+
+    /*
+    * Method overriden from Runnable, puts the message this class represents on queue
+    * When there is a serviceEcxeption while trying to put message on queue it keeps triying until it's thread is interuppted*/
     @Override
     public void run() {
         try {
             messageService.setupQueue(ACTION_QUEUENAME);
-            OutgoingSpeedMessage message = new OutgoingSpeedMessage(rideId,speed);
+            OutgoingSpeedMessage message = new OutgoingSpeedMessage(rideId,speed, sectionId);
             messageService.putOnQueue(message);
         }
         catch (ServiceException e){
-            //
+            run();
         }
     }
 

@@ -2,6 +2,10 @@ package Domain.Infrastructure;
 
 import java.util.ArrayList;
 
+
+/*
+* This Class represents a Route as returned by the RouteService
+* */
 public class Route {
     private int rideId;
     private ArrayList<RouteSection> routeSections;

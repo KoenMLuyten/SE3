@@ -12,6 +12,10 @@ import org.slf4j.LoggerFactory;
 
 import java.io.IOException;
 
+/*
+* This class is a consumer for a RabbitMQ
+* It notifies the approriate listener of an incoming message and records the message to a file if a recorder has been provided
+* */
 public class IncomingRabbitMq implements IncomingMessageService {
 
     private final String connectionString;

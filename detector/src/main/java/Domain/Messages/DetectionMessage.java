@@ -3,6 +3,10 @@ package Domain.Messages;
         import java.util.Date;
         import java.util.function.Supplier;
 
+
+/*
+* This class represents a detectionMessage as send out by the simulator
+* */
 public class DetectionMessage {
 
     private int sectionId;

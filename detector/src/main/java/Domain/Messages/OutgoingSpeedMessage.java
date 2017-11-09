@@ -1,15 +1,20 @@
 package Domain.Messages;
 
-import Domain.Checks.CheckResult;
 
+
+/*
+* This class represents a message to adjust the speed of a given train to put on the OutgoingMessageService
+* */
 public class OutgoingSpeedMessage implements OutGoingMessage{
 
     private int rideId;
-    private double speed;
+    private int speed;
+    private int sectionId;
 
-    public OutgoingSpeedMessage(int rideId, double speed){
+    public OutgoingSpeedMessage(int rideId, int speed, int sectionId){
         this.rideId = rideId;
         this.speed = speed;
+        this.sectionId = sectionId;
     }
 
 
@@ -20,4 +25,5 @@ public class OutgoingSpeedMessage implements OutGoingMessage{
     public double getSpeed(){
         return speed;
     }
+
 }

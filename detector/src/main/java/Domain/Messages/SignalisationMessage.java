@@ -2,8 +2,11 @@ package Domain.Messages;
 
 
 import java.sql.Timestamp;
-import java.util.Date;
 
+
+/*
+* This class represents a signalMessage as send out by the simulator
+* */
 public class SignalisationMessage {
 
     private int sectionId;

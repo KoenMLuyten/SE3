@@ -11,6 +11,10 @@ import Domain.RouteHandler;
 
 import java.util.ArrayList;
 
+
+/*
+* This class is responsible for checking the incoming detectionmessage does not suggest an immininent Head to Head collision;
+* */
 public class H2HChecker implements IChecker {
 
     private final DetectionMap mapInstance;
@@ -41,8 +45,8 @@ public class H2HChecker implements IChecker {
                 mapInstance.get(sectionId).forEach(detectionMessage ->  {
                     if(detectionMessage.getRideId() != rideId){
                         ArrayList<RouteSection> problemRoute = routeHandler.getRoute(detectionMessage.getRideId()).getRouteSections();
-                        int comingFromSectionIndex = problemRoute.indexOf(new RouteSection(sectionId,0)) - 1;
-                        if (problemRoute.get(comingFromSectionIndex).getSectionID() != previousSectionId){
+                        int goingToSection = problemRoute.indexOf(new RouteSection(sectionId,0)) + 1;
+                        if (problemRoute.get(goingToSection).getSectionID() == previousSectionId){
                          actions.add(new StopAction(detectionMessage.getRideId()));
                         }
                     }

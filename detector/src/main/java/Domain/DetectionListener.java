@@ -12,7 +12,9 @@ import org.slf4j.LoggerFactory;
 import java.util.LinkedList;
 import java.util.NoSuchElementException;
 
-
+/*
+* This class listens for incoming DetectionMessages, passes them on to the detectionHandler and actions on the results.
+* */
 public class DetectionListener implements MessageListener {
 
 
@@ -34,6 +36,11 @@ public class DetectionListener implements MessageListener {
         buffer = new LinkedList<>();
     }
 
+    /*
+    * This method is called by the observer when a new message is received,
+    * If the message buffer is empty and the number of active threads is not exceeding the max, a new thread is started to handle the message
+    * otherwise it is stored in the buffer
+    * */
     @Override
     public void onReceive(IncomingMessageDTO DTOmessage) {
         DetectionMessage message = new DetectionMessage(DTOmessage);
@@ -53,6 +60,9 @@ public class DetectionListener implements MessageListener {
         }
     }
 
+    /*
+    * This method executes the actions needed by the check results. It starts a thread for each action, keeps it alive for a certain amount of time, and interupts it if it did not finish by then.
+    * */
     private void handleResults(CheckResult result){
         for (CheckAction a: result.getRequiredActions()) {
             a.setMessageService(outgoingMessageService);
@@ -76,6 +86,9 @@ public class DetectionListener implements MessageListener {
         }
     }
 
+    /*
+    * This method takes the next message from the buffer and starts a tread handling this message.
+    * */
     public void nextFromBuffer(){
         try {
             DetectionMessage message = buffer.remove();
@@ -91,6 +104,9 @@ public class DetectionListener implements MessageListener {
         }
     }
 
+    /*
+    * This method sets up the incomingMessageService as an observer for new messages with this instance as a listener.
+    * */
     public void start(){
         try {
             incomingMessageService.initialize(this, MESSAGE_QUEUE);

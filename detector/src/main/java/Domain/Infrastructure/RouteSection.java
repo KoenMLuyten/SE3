@@ -1,5 +1,9 @@
 package Domain.Infrastructure;
 
+
+/*
+* This class represents a certain section on a Route as returned by the RouteService
+* */
 public class RouteSection {
     private int sectionID;
     private int speed;

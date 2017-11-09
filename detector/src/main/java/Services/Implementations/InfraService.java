@@ -9,6 +9,11 @@ import org.json.JSONObject;
 
 import java.io.IOException;
 
+
+/*
+* This class adapts the given InfrastructureServiceProxy
+* It can be called to request a certain Section and adapts the JSON-object returned by InfrastructureServiceProxy as a Section object.
+* */
 public class InfraService implements IInfrastructureService {
 
     private final String connectionString;

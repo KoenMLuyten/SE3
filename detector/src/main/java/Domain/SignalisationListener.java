@@ -1,6 +1,5 @@
 package Domain;
 
-import Domain.Messages.DetectionMessage;
 import Domain.Messages.IncomingMessageDTO;
 import Domain.Messages.SignalisationMessage;
 import Services.Interfaces.IncomingMessageService;
@@ -10,6 +9,9 @@ import org.slf4j.LoggerFactory;
 import java.util.LinkedList;
 import java.util.NoSuchElementException;
 
+/*
+* This class listens for incoming SignalisationMessages, passes them on to the detectionHandler and actions on the results.
+* */
 public class SignalisationListener implements MessageListener {
 
     private IncomingMessageService incomingMessageService;
@@ -27,6 +29,11 @@ public class SignalisationListener implements MessageListener {
         buffer = new LinkedList<>();
     }
 
+    /*
+    * This method is called by the observer when a new message is received,
+    * If the message buffer is empty and the number of active threads is not exceeding the max, a new thread is started to handle the message
+    * otherwise it is stored in the buffer
+    * */
     @Override
     public void onReceive(IncomingMessageDTO DTOmessage) {
         SignalisationMessage message = new SignalisationMessage(DTOmessage);
@@ -46,6 +53,9 @@ public class SignalisationListener implements MessageListener {
         }
     }
 
+    /*
+    * This method takes the next message from the buffer and starts a tread handling this message.
+    * */
     public void nextFromBuffer(){
         try {
             SignalisationMessage message = buffer.remove();
@@ -61,6 +71,9 @@ public class SignalisationListener implements MessageListener {
         }
     }
 
+    /*
+    * This method sets up the incomingMessageService as an observer for new messages with this instance as a listener.
+    * */
     public void start(){
         try {
             incomingMessageService.initialize(this, MESSAGE_QUEUE);

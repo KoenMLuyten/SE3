@@ -2,11 +2,13 @@ package Domain.Messages;
 
 import java.sql.Timestamp;
 
+
+/*This class represents a DTO for the incomingMessageService to pass to the appropriate listener who then casts it to the specific message it needs*/
 public class IncomingMessageDTO {
 
     private int sectionId;
     private int blockNr;
-    private String timestamp;
+    private Timestamp timestamp;
     private int lastAttribute;
 
     public int getSectionId() {
@@ -17,7 +19,7 @@ public class IncomingMessageDTO {
         return blockNr;
     }
 
-    public Timestamp getTimestamp() { return Timestamp.valueOf(timestamp);}
+    public Timestamp getTimestamp() { return timestamp;}
 
     public int getLastAttribute() {
         return lastAttribute;
@@ -31,7 +33,7 @@ public class IncomingMessageDTO {
         this.blockNr = blockNr;
     }
 
-    public void setTimestamp(String timestamp) {
+    public void setTimestamp(Timestamp timestamp) {
         this.timestamp = timestamp;
     }
 

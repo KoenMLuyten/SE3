@@ -19,6 +19,10 @@ public class SignChecker implements IChecker {
     private int minBlocks;
     private SignalisationMap mapInstance;
 
+
+    /*
+    * This class is responsible for checking the incoming detectionmessage does not suggest this train heading toward an open crossing
+    * */
     public SignChecker(InfrastructureHandler infraHandler, RouteHandler routeHandler, int minBlocks){
         this.infraHandler = infraHandler;
         this.routeHandler = routeHandler;
@@ -43,7 +47,6 @@ public class SignChecker implements IChecker {
                                                                 currentRoute.getRouteSections().indexOf(new RouteSection(sectionId, 0)),
                                                                 currentRoute.getRouteSections().size())
                                                                 );
-        //ArrayList<RouteSection> remainingSections = (ArrayList<RouteSection>) currentRoute.getRouteSections().subList(0,2);
 
         int sectionIndex = 0;
         int blockDistance = 0;

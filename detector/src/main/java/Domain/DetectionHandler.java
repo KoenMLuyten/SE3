@@ -10,12 +10,15 @@ import org.slf4j.LoggerFactory;
 
 import java.util.ArrayList;
 
+/*
+* This class is responsible for handling a single detection message
+* it updates the detectionmap and returns a single CheckResult that can be actioned upon if needed
+* */
 public class DetectionHandler {
 
     private IChecker checker;
     private DetectionMap map;
     RouteHandler routeHandler;
-    Logger logger = LoggerFactory.getLogger(DetectionHandler.class);
 
     public DetectionHandler(IChecker checker, RouteHandler routeHandler){
         this.checker = checker;
@@ -44,10 +47,10 @@ public class DetectionHandler {
             else{
                 Route route = routeHandler.getRoute(message.getRideId());
                 for (int i = 0; i < route.getRouteSections().size(); i++){
-                    if (route.getRouteSections().get(i).getSectionID() == message.getSectionId()){
+                    if (route.getRouteSections().get(i).getSectionID() == message.getSectionId() && i != 0){
                         int prevSectionId = route.getRouteSections().get(i-1).getSectionID();
                         ArrayList prevSection = map.get(prevSectionId);
-                        if (prevSection.contains(message)) {
+                        if (prevSection != null && prevSection.contains(message)) {
                             prevSection.remove(message);
                             map.replace(prevSectionId, prevSection);
                         }

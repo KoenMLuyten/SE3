@@ -10,6 +10,10 @@ import Domain.RouteHandler;
 
 import java.util.ArrayList;
 
+
+/*
+ * This class is responsible for checking the incoming detectionmessage does not suggest an imminent Head 2 Tail collision
+ */
 public class H2TChecker implements IChecker{
     private RouteHandler routeHandler;
     private DetectionMap mapInstance;
@@ -48,14 +52,14 @@ public class H2TChecker implements IChecker{
                         if(blockNr < otherTrain.getBlockNr() && otherTrain.getBlockNr() - blockNr <= minBlocks){
                             //TODO : SPEED implementeren
                             int speed = blockNr*2;
-                            actions.add(new SpeedAction(rideId, speed));
+                            actions.add(new SpeedAction(rideId, speed, sectionToCheck.getSectionID()));
                         }
                     }
                     else{
                         if(currentBlockDistance + otherTrain.getBlockNr() < minBlocks){
                             //TODO : SPEED implementeren
                             int speed = blockNr*2;
-                            actions.add(new SpeedAction(rideId, speed));
+                            actions.add(new SpeedAction(rideId, speed, sectionToCheck.getSectionID()));
                         }
                     }
 

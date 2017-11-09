@@ -22,16 +22,19 @@ public class Test {
 
         xStream.aliasField("rideId", IncomingMessageDTO.class, "lastAttribute");
         xStream.aliasField("closed",IncomingMessageDTO.class, "lastAttribute");
-        xStream.alias("StopMessage", OutGoingStopMessage.class);
-        xStream.alias("SpeedMessage", OutgoingSpeedMessage.class);
+        xStream.alias("StopMessageDTO", OutGoingStopMessage.class);
+        xStream.aliasField("rideid",OutGoingStopMessage.class, "rideId");
+        xStream.alias("SpeedMessageDTO", OutgoingSpeedMessage.class);
+        xStream.aliasField("sectionid",IncomingMessageDTO.class, "SectionId");
         xStream.alias("detectionMessage", IncomingMessageDTO.class);
-        xStream.alias("signalisationMessage", IncomingMessageDTO.class);
+        xStream.alias("signalMessage", IncomingMessageDTO.class);
+
 
         MessageFormatter formatter = new XStreamFormatter(xStream);
 
-        final String inMessageString = "amqp://hjnwvnem:IZWi2g4eMtJlxOVGMNbMkvzYvuu7patt@elephant.rmq.cloudamqp.com/hjnwvnem";
-        final String detectionQueueName = "detection_queue";
-        final String signalisationQueueName = "signal_queue";
+        final String inMessageString = "amqp://wumilmvn:puj89wkPxtXV26mV9u16tQ6r-PywF3v4@elephant.rmq.cloudamqp.com/wumilmvn";
+        final String detectionQueueName = "Detection Messages";
+        final String signalisationQueueName = "Signal Messages";
         final String outMessageString = "amqp://zhghektw:gOYMs97z_HaHm9ARlsNKQvePouKZfycj@elephant.rmq.cloudamqp.com/zhghektw";
 
         IncomingMessageService inMessageService = new IncomingRabbitMq(inMessageString, detectionQueueName, formatter);

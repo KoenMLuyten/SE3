@@ -10,7 +10,10 @@ import org.json.JSONException;
 import org.json.JSONObject;
 
 import java.util.ArrayList;
-import java.util.Iterator;
+/*
+* This class adapts the given RouteServiceProxy
+* It can be called to request a certain Route and adapts the JSON-object returned by InfrastructureServiceProxy as a Route object.
+* */
 
 public class RouteService implements IRouteService {
 

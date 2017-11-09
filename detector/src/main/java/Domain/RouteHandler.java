@@ -2,7 +2,9 @@ package Domain;
 
 import Domain.Infrastructure.Route;
 import Services.Interfaces.IRouteService;
-
+/*
+* This class handles RouteService, it checks whether it has the requested Route cached and otherwise makes a call to RouteService to get te requested section, caching it in the process
+* */
 public class RouteHandler implements IRouteService{
 
     IRouteService service;

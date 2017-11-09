@@ -1,5 +1,10 @@
 package Domain.Messages;
 
+
+
+/*
+* This class represents a message to stop a given train to put on the OutgoingMessageService
+* */
 public class OutGoingStopMessage implements OutGoingMessage{
 
     private final int rideId;
