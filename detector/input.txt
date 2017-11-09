@@ -1,0 +1,3804 @@
+<detectionMessage>
+  <rideId>5</rideId>
+  <blockNr>1</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:44:05.914</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>1</rideId>
+  <blockNr>1</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:44:12.216</timestamp>
+  <sectionId>1</sectionId>
+</detectionMessage> 
+<signalMessage>
+  <sectionId>1</sectionId>
+  <blockNr>7</blockNr>
+  <openClosed>1</openClosed>
+  <timeStamp class="sql-timestamp">2017-11-08 22:44:22.231</timeStamp>
+</signalMessage> 
+<detectionMessage>
+  <rideId>7</rideId>
+  <blockNr>1</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:44:12.115</timestamp>
+  <sectionId>3</sectionId>
+</detectionMessage> 
+<signalMessage>
+  <sectionId>1</sectionId>
+  <blockNr>3</blockNr>
+  <openClosed>0</openClosed>
+  <timeStamp class="sql-timestamp">2017-11-08 22:44:30.18</timeStamp>
+</signalMessage> 
+<signalMessage>
+  <sectionId>7</sectionId>
+  <blockNr>2</blockNr>
+  <openClosed>0</openClosed>
+  <timeStamp class="sql-timestamp">2017-11-08 22:44:31.124</timeStamp>
+</signalMessage> 
+<detectionMessage>
+  <rideId>5</rideId>
+  <blockNr>2</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:44:12.056</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>1</rideId>
+  <blockNr>2</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:44:15.158</timestamp>
+  <sectionId>1</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>7</rideId>
+  <blockNr>2</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:44:16.217</timestamp>
+  <sectionId>3</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>4</rideId>
+  <blockNr>1</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:44:15.316</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>1</rideId>
+  <blockNr>3</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:44:18.853</timestamp>
+  <sectionId>1</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>7</rideId>
+  <blockNr>3</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:44:20.106</timestamp>
+  <sectionId>3</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>5</rideId>
+  <blockNr>3</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:44:17.955</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>1</rideId>
+  <blockNr>4</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:44:23.187</timestamp>
+  <sectionId>1</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>4</rideId>
+  <blockNr>2</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:44:21.271</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>6</rideId>
+  <blockNr>1</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:44:20.317</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>7</rideId>
+  <blockNr>4</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:44:24.073</timestamp>
+  <sectionId>3</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>1</rideId>
+  <blockNr>5</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:44:26.5</timestamp>
+  <sectionId>1</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>5</rideId>
+  <blockNr>4</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:44:25.018</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>8</rideId>
+  <blockNr>1</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:44:27.318</timestamp>
+  <sectionId>3</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>4</rideId>
+  <blockNr>3</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:44:27.397</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>7</rideId>
+  <blockNr>5</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:44:29.213</timestamp>
+  <sectionId>3</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>8</rideId>
+  <blockNr>2</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:44:32.02</timestamp>
+  <sectionId>3</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>1</rideId>
+  <blockNr>6</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:44:32.936</timestamp>
+  <sectionId>1</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>3</rideId>
+  <blockNr>1</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:44:29.318</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>6</rideId>
+  <blockNr>2</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:44:28.297</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<signalMessage>
+  <sectionId>7</sectionId>
+  <blockNr>2</blockNr>
+  <openClosed>0</openClosed>
+  <timeStamp class="sql-timestamp">2017-11-08 22:44:40.445</timeStamp>
+</signalMessage> 
+<detectionMessage>
+  <rideId>4</rideId>
+  <blockNr>4</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:44:34.006</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>9</rideId>
+  <blockNr>1</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:44:37.318</timestamp>
+  <sectionId>5</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>7</rideId>
+  <blockNr>1</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:44:34.916</timestamp>
+  <sectionId>5</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>5</rideId>
+  <blockNr>5</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:44:35.91</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>2</rideId>
+  <blockNr>1</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:44:38.319</timestamp>
+  <sectionId>1</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>8</rideId>
+  <blockNr>3</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:44:36.802</timestamp>
+  <sectionId>3</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>1</rideId>
+  <blockNr>7</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:44:37.672</timestamp>
+  <sectionId>1</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>6</rideId>
+  <blockNr>3</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:44:39.489</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>3</rideId>
+  <blockNr>2</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:44:38.608</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>7</rideId>
+  <blockNr>2</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:44:42.348</timestamp>
+  <sectionId>5</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>9</rideId>
+  <blockNr>2</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:44:41.424</timestamp>
+  <sectionId>5</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>4</rideId>
+  <blockNr>5</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:44:44.173</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>8</rideId>
+  <blockNr>4</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:44:46.077</timestamp>
+  <sectionId>3</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>1</rideId>
+  <blockNr>8</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:44:47.005</timestamp>
+  <sectionId>1</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>5</rideId>
+  <blockNr>6</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:44:43.286</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>2</rideId>
+  <blockNr>2</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:44:45.123</timestamp>
+  <sectionId>1</sectionId>
+</detectionMessage> 
+<signalMessage>
+  <sectionId>7</sectionId>
+  <blockNr>2</blockNr>
+  <openClosed>0</openClosed>
+  <timeStamp class="sql-timestamp">2017-11-08 22:44:57.439</timeStamp>
+</signalMessage> 
+<detectionMessage>
+  <rideId>3</rideId>
+  <blockNr>3</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:44:48.801</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<signalMessage>
+  <sectionId>1</sectionId>
+  <blockNr>7</blockNr>
+  <openClosed>1</openClosed>
+  <timeStamp class="sql-timestamp">2017-11-08 22:45:01.1</timeStamp>
+</signalMessage> 
+<detectionMessage>
+  <rideId>6</rideId>
+  <blockNr>4</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:44:47.876</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>9</rideId>
+  <blockNr>3</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:44:50.631</timestamp>
+  <sectionId>5</sectionId>
+</detectionMessage> 
+<signalMessage>
+  <sectionId>7</sectionId>
+  <blockNr>2</blockNr>
+  <openClosed>0</openClosed>
+  <timeStamp class="sql-timestamp">2017-11-08 22:45:06.434</timeStamp>
+</signalMessage> 
+<signalMessage>
+  <sectionId>1</sectionId>
+  <blockNr>7</blockNr>
+  <openClosed>0</openClosed>
+  <timeStamp class="sql-timestamp">2017-11-08 22:45:04.176</timeStamp>
+</signalMessage> 
+<detectionMessage>
+  <rideId>7</rideId>
+  <blockNr>3</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:44:49.696</timestamp>
+  <sectionId>5</sectionId>
+</detectionMessage> 
+<signalMessage>
+  <sectionId>1</sectionId>
+  <blockNr>3</blockNr>
+  <openClosed>0</openClosed>
+  <timeStamp class="sql-timestamp">2017-11-08 22:45:26.055</timeStamp>
+</signalMessage> 
+<detectionMessage>
+  <rideId>2</rideId>
+  <blockNr>3</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:44:55.415</timestamp>
+  <sectionId>1</sectionId>
+</detectionMessage> 
+<signalMessage>
+  <sectionId>7</sectionId>
+  <blockNr>2</blockNr>
+  <openClosed>0</openClosed>
+  <timeStamp class="sql-timestamp">2017-11-08 22:45:35.33</timeStamp>
+</signalMessage> 
+<detectionMessage>
+  <rideId>4</rideId>
+  <blockNr>6</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:44:51.585</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<signalMessage>
+  <sectionId>7</sectionId>
+  <blockNr>2</blockNr>
+  <openClosed>0</openClosed>
+  <timeStamp class="sql-timestamp">2017-11-08 22:45:49.254</timeStamp>
+</signalMessage> 
+<signalMessage>
+  <sectionId>1</sectionId>
+  <blockNr>7</blockNr>
+  <openClosed>0</openClosed>
+  <timeStamp class="sql-timestamp">2017-11-08 22:45:53.925</timeStamp>
+</signalMessage> 
+<detectionMessage>
+  <rideId>8</rideId>
+  <blockNr>5</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:44:52.535</timestamp>
+  <sectionId>3</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>1</rideId>
+  <blockNr>9</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:44:53.431</timestamp>
+  <sectionId>1</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>9</rideId>
+  <blockNr>1</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:44:58.342</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>3</rideId>
+  <blockNr>4</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:44:56.477</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>5</rideId>
+  <blockNr>7</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:44:54.473</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>4</rideId>
+  <blockNr>7</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:45:02.403</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>6</rideId>
+  <blockNr>5</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:45:00.161</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>8</rideId>
+  <blockNr>1</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:45:03.28</timestamp>
+  <sectionId>5</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>7</rideId>
+  <blockNr>1</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:44:59.26</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>5</rideId>
+  <blockNr>8</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:45:08.227</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>8</rideId>
+  <blockNr>2</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:45:12.036</timestamp>
+  <sectionId>5</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>9</rideId>
+  <blockNr>2</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:45:05.141</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>2</rideId>
+  <blockNr>4</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:45:07.339</timestamp>
+  <sectionId>1</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>8</rideId>
+  <blockNr>3</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:45:15.695</timestamp>
+  <sectionId>5</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>6</rideId>
+  <blockNr>6</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:45:11.129</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>1</rideId>
+  <blockNr>10</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:45:13.908</timestamp>
+  <sectionId>1</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>3</rideId>
+  <blockNr>5</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:45:10.163</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>4</rideId>
+  <blockNr>8</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:45:09.22</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>9</rideId>
+  <blockNr>3</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:45:16.631</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>1</rideId>
+  <blockNr>1</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:45:20.503</timestamp>
+  <sectionId>5</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>5</rideId>
+  <blockNr>9</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:45:14.795</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>2</rideId>
+  <blockNr>5</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:45:17.577</timestamp>
+  <sectionId>1</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>7</rideId>
+  <blockNr>2</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:45:12.981</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>3</rideId>
+  <blockNr>6</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:45:21.502</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>1</rideId>
+  <blockNr>2</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:45:24.246</timestamp>
+  <sectionId>5</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>6</rideId>
+  <blockNr>7</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:45:19.513</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>8</rideId>
+  <blockNr>1</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:45:18.47</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>2</rideId>
+  <blockNr>6</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:45:28.872</timestamp>
+  <sectionId>1</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>1</rideId>
+  <blockNr>3</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:45:29.85</timestamp>
+  <sectionId>5</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>5</rideId>
+  <blockNr>10</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:45:25.163</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>9</rideId>
+  <blockNr>4</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:45:23.327</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>4</rideId>
+  <blockNr>9</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:45:22.401</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>6</rideId>
+  <blockNr>8</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:45:30.741</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>2</rideId>
+  <blockNr>7</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:45:32.651</timestamp>
+  <sectionId>1</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>3</rideId>
+  <blockNr>7</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:45:27.918</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>7</rideId>
+  <blockNr>3</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:45:26.958</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>1</rideId>
+  <blockNr>1</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:45:33.541</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>8</rideId>
+  <blockNr>2</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:45:31.67</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>5</rideId>
+  <blockNr>1</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:45:34.447</timestamp>
+  <sectionId>6</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>9</rideId>
+  <blockNr>5</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:45:38.133</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>6</rideId>
+  <blockNr>9</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:45:37.236</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>4</rideId>
+  <blockNr>10</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:45:36.308</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>2</rideId>
+  <blockNr>8</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:45:39.096</timestamp>
+  <sectionId>1</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>1</rideId>
+  <blockNr>2</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:45:41.953</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>7</rideId>
+  <blockNr>4</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:45:41.059</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>5</rideId>
+  <blockNr>2</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:45:43.748</timestamp>
+  <sectionId>6</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>3</rideId>
+  <blockNr>8</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:45:40.125</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>6</rideId>
+  <blockNr>10</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:45:45.641</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>9</rideId>
+  <blockNr>6</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:45:44.74</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>2</rideId>
+  <blockNr>9</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:45:47.452</timestamp>
+  <sectionId>1</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>4</rideId>
+  <blockNr>1</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:45:46.568</timestamp>
+  <sectionId>6</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>8</rideId>
+  <blockNr>3</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:45:42.847</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>3</rideId>
+  <blockNr>9</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:45:51.146</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>6</rideId>
+  <blockNr>1</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:45:52.054</timestamp>
+  <sectionId>6</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>1</rideId>
+  <blockNr>3</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:45:48.382</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>5</rideId>
+  <blockNr>3</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:45:50.245</timestamp>
+  <sectionId>6</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>6</rideId>
+  <blockNr>2</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:45:58.588</timestamp>
+  <sectionId>6</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>7</rideId>
+  <blockNr>5</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:45:54.85</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>9</rideId>
+  <blockNr>7</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:45:52.941</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>4</rideId>
+  <blockNr>2</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:45:55.806</timestamp>
+  <sectionId>6</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>6</rideId>
+  <blockNr>3</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:46:02.422</timestamp>
+  <sectionId>6</sectionId>
+</detectionMessage> 
+<signalMessage>
+  <sectionId>7</sectionId>
+  <blockNr>2</blockNr>
+  <openClosed>0</openClosed>
+  <timeStamp class="sql-timestamp">2017-11-08 22:46:08.848</timeStamp>
+</signalMessage> 
+<signalMessage>
+  <sectionId>2</sectionId>
+  <blockNr>7</blockNr>
+  <openClosed>1</openClosed>
+  <timeStamp class="sql-timestamp">2017-11-08 22:46:21.046</timeStamp>
+</signalMessage> 
+<signalMessage>
+  <sectionId>7</sectionId>
+  <blockNr>2</blockNr>
+  <openClosed>0</openClosed>
+  <timeStamp class="sql-timestamp">2017-11-08 22:46:17.197</timeStamp>
+</signalMessage> 
+<signalMessage>
+  <sectionId>2</sectionId>
+  <blockNr>3</blockNr>
+  <openClosed>0</openClosed>
+  <timeStamp class="sql-timestamp">2017-11-08 22:46:33.14</timeStamp>
+</signalMessage> 
+<signalMessage>
+  <sectionId>2</sectionId>
+  <blockNr>7</blockNr>
+  <openClosed>1</openClosed>
+  <timeStamp class="sql-timestamp">2017-11-08 22:46:37.021</timeStamp>
+</signalMessage> 
+<signalMessage>
+  <sectionId>2</sectionId>
+  <blockNr>3</blockNr>
+  <openClosed>0</openClosed>
+  <timeStamp class="sql-timestamp">2017-11-08 22:46:57.47</timeStamp>
+</signalMessage> 
+<signalMessage>
+  <sectionId>2</sectionId>
+  <blockNr>7</blockNr>
+  <openClosed>0</openClosed>
+  <timeStamp class="sql-timestamp">2017-11-08 22:46:59.237</timeStamp>
+</signalMessage> 
+<detectionMessage>
+  <rideId>3</rideId>
+  <blockNr>10</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:45:57.719</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>5</rideId>
+  <blockNr>1</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:46:01.482</timestamp>
+  <sectionId>2</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>8</rideId>
+  <blockNr>4</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:45:56.796</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>2</rideId>
+  <blockNr>10</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:45:59.596</timestamp>
+  <sectionId>1</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>9</rideId>
+  <blockNr>8</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:46:04.177</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>3</rideId>
+  <blockNr>1</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:46:07.004</timestamp>
+  <sectionId>6</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>5</rideId>
+  <blockNr>2</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:46:07.959</timestamp>
+  <sectionId>2</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>7</rideId>
+  <blockNr>6</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:46:03.32</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>4</rideId>
+  <blockNr>3</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:46:05.111</timestamp>
+  <sectionId>6</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>6</rideId>
+  <blockNr>1</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:46:06.036</timestamp>
+  <sectionId>2</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>1</rideId>
+  <blockNr>4</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:46:00.535</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>4</rideId>
+  <blockNr>1</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:46:15.326</timestamp>
+  <sectionId>4</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>9</rideId>
+  <blockNr>9</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:46:10.652</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>3</rideId>
+  <blockNr>2</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:46:11.671</timestamp>
+  <sectionId>6</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>5</rideId>
+  <blockNr>3</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:46:12.532</timestamp>
+  <sectionId>2</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>2</rideId>
+  <blockNr>1</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:46:09.777</timestamp>
+  <sectionId>5</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>7</rideId>
+  <blockNr>7</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:46:14.427</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>4</rideId>
+  <blockNr>2</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:46:18.125</timestamp>
+  <sectionId>4</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>8</rideId>
+  <blockNr>5</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:46:13.497</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>6</rideId>
+  <blockNr>2</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:46:16.315</timestamp>
+  <sectionId>2</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>4</rideId>
+  <blockNr>3</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:46:24.794</timestamp>
+  <sectionId>4</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>9</rideId>
+  <blockNr>10</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:46:19.031</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>5</rideId>
+  <blockNr>4</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:46:22.873</timestamp>
+  <sectionId>2</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>2</rideId>
+  <blockNr>2</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:46:21.938</timestamp>
+  <sectionId>5</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>3</rideId>
+  <blockNr>3</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:46:19.978</timestamp>
+  <sectionId>6</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>5</rideId>
+  <blockNr>5</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:46:30.324</timestamp>
+  <sectionId>2</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>8</rideId>
+  <blockNr>6</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:46:25.662</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>4</rideId>
+  <blockNr>4</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:46:28.483</timestamp>
+  <sectionId>4</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>7</rideId>
+  <blockNr>8</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:46:23.824</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>6</rideId>
+  <blockNr>3</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:46:26.643</timestamp>
+  <sectionId>2</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>4</rideId>
+  <blockNr>5</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:46:35.036</timestamp>
+  <sectionId>4</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>3</rideId>
+  <blockNr>1</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:46:32.22</timestamp>
+  <sectionId>4</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>1</rideId>
+  <blockNr>5</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:46:27.534</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>2</rideId>
+  <blockNr>3</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:46:31.322</timestamp>
+  <sectionId>5</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>7</rideId>
+  <blockNr>9</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:46:36.036</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>3</rideId>
+  <blockNr>2</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:46:39.842</timestamp>
+  <sectionId>4</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>5</rideId>
+  <blockNr>6</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:46:38.919</timestamp>
+  <sectionId>2</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>8</rideId>
+  <blockNr>7</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:46:34.087</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>1</rideId>
+  <blockNr>6</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:46:40.738</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>5</rideId>
+  <blockNr>7</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:46:44.49</timestamp>
+  <sectionId>2</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>3</rideId>
+  <blockNr>3</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:46:43.581</timestamp>
+  <sectionId>4</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>7</rideId>
+  <blockNr>10</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:46:42.666</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>6</rideId>
+  <blockNr>4</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:46:46.455</timestamp>
+  <sectionId>2</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>2</rideId>
+  <blockNr>1</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:46:41.724</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>8</rideId>
+  <blockNr>8</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:46:45.425</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>3</rideId>
+  <blockNr>4</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:46:49.264</timestamp>
+  <sectionId>4</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>5</rideId>
+  <blockNr>8</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:46:48.32</timestamp>
+  <sectionId>2</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>3</rideId>
+  <blockNr>5</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:46:53.794</timestamp>
+  <sectionId>4</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>1</rideId>
+  <blockNr>7</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:46:47.397</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>6</rideId>
+  <blockNr>5</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:46:51.109</timestamp>
+  <sectionId>2</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>2</rideId>
+  <blockNr>2</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:46:51.998</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>5</rideId>
+  <blockNr>9</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:46:54.682</timestamp>
+  <sectionId>2</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>8</rideId>
+  <blockNr>9</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:46:52.937</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>5</rideId>
+  <blockNr>1</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:53:45.284</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>9</rideId>
+  <blockNr>1</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:53:53.385</timestamp>
+  <sectionId>5</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>5</rideId>
+  <blockNr>2</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:53:51.382</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>9</rideId>
+  <blockNr>2</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:53:56.3</timestamp>
+  <sectionId>5</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>9</rideId>
+  <blockNr>3</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:53:59.273</timestamp>
+  <sectionId>5</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>5</rideId>
+  <blockNr>3</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:53:57.313</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>6</rideId>
+  <blockNr>1</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:53:58.385</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>8</rideId>
+  <blockNr>1</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:54:05.487</timestamp>
+  <sectionId>3</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>1</rideId>
+  <blockNr>1</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:54:06.59</timestamp>
+  <sectionId>1</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>2</rideId>
+  <blockNr>1</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:54:06.59</timestamp>
+  <sectionId>1</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>9</rideId>
+  <blockNr>1</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:54:02.178</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>1</rideId>
+  <blockNr>2</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:54:08.83</timestamp>
+  <sectionId>1</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>8</rideId>
+  <blockNr>2</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:54:07.94</timestamp>
+  <sectionId>3</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>6</rideId>
+  <blockNr>2</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:54:04.331</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>5</rideId>
+  <blockNr>4</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:54:03.311</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>8</rideId>
+  <blockNr>3</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:54:12.634</timestamp>
+  <sectionId>3</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>7</rideId>
+  <blockNr>1</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:54:12.59</timestamp>
+  <sectionId>3</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>1</rideId>
+  <blockNr>3</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:54:11.689</timestamp>
+  <sectionId>1</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>2</rideId>
+  <blockNr>2</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:54:09.755</timestamp>
+  <sectionId>1</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>7</rideId>
+  <blockNr>2</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:54:16.427</timestamp>
+  <sectionId>3</sectionId>
+</detectionMessage> 
+<signalMessage>
+  <sectionId>1</sectionId>
+  <blockNr>7</blockNr>
+  <openClosed>1</openClosed>
+  <timeStamp class="sql-timestamp">2017-11-08 22:54:17.344</timeStamp>
+</signalMessage> 
+<detectionMessage>
+  <rideId>8</rideId>
+  <blockNr>4</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:54:15.485</timestamp>
+  <sectionId>3</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>9</rideId>
+  <blockNr>2</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:54:10.726</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<signalMessage>
+  <sectionId>7</sectionId>
+  <blockNr>2</blockNr>
+  <openClosed>0</openClosed>
+  <timeStamp class="sql-timestamp">2017-11-08 22:54:14.58</timeStamp>
+</signalMessage> 
+<detectionMessage>
+  <rideId>4</rideId>
+  <blockNr>1</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:54:17.701</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>8</rideId>
+  <blockNr>5</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:54:21.069</timestamp>
+  <sectionId>3</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>1</rideId>
+  <blockNr>4</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:54:20.182</timestamp>
+  <sectionId>1</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>7</rideId>
+  <blockNr>3</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:54:19.299</timestamp>
+  <sectionId>3</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>3</rideId>
+  <blockNr>1</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:54:14.692</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>2</rideId>
+  <blockNr>3</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:54:18.348</timestamp>
+  <sectionId>1</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>6</rideId>
+  <blockNr>3</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:54:13.698</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>4</rideId>
+  <blockNr>2</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:54:23.819</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<signalMessage>
+  <sectionId>1</sectionId>
+  <blockNr>7</blockNr>
+  <openClosed>1</openClosed>
+  <timeStamp class="sql-timestamp">2017-11-08 22:54:28.372</timeStamp>
+</signalMessage> 
+<detectionMessage>
+  <rideId>7</rideId>
+  <blockNr>4</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:54:26.483</timestamp>
+  <sectionId>3</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>5</rideId>
+  <blockNr>5</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:54:22.817</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>9</rideId>
+  <blockNr>3</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:54:21.953</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>8</rideId>
+  <blockNr>1</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:54:24.707</timestamp>
+  <sectionId>5</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>1</rideId>
+  <blockNr>5</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:54:25.593</timestamp>
+  <sectionId>1</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>4</rideId>
+  <blockNr>3</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:54:30.165</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>6</rideId>
+  <blockNr>4</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:54:29.288</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>7</rideId>
+  <blockNr>5</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:54:31.968</timestamp>
+  <sectionId>3</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>3</rideId>
+  <blockNr>2</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:54:27.359</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>2</rideId>
+  <blockNr>4</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:54:31.049</timestamp>
+  <sectionId>1</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>9</rideId>
+  <blockNr>4</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:54:33.79</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>5</rideId>
+  <blockNr>6</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:54:32.913</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<signalMessage>
+  <sectionId>7</sectionId>
+  <blockNr>2</blockNr>
+  <openClosed>0</openClosed>
+  <timeStamp class="sql-timestamp">2017-11-08 22:54:37.707</timeStamp>
+</signalMessage> 
+<detectionMessage>
+  <rideId>8</rideId>
+  <blockNr>2</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:54:34.748</timestamp>
+  <sectionId>5</sectionId>
+</detectionMessage> 
+<signalMessage>
+  <sectionId>1</sectionId>
+  <blockNr>3</blockNr>
+  <openClosed>0</openClosed>
+  <timeStamp class="sql-timestamp">2017-11-08 22:54:35.677</timeStamp>
+</signalMessage> 
+<detectionMessage>
+  <rideId>3</rideId>
+  <blockNr>3</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:54:39.648</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>4</rideId>
+  <blockNr>4</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:54:36.77</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>2</rideId>
+  <blockNr>5</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:54:40.592</timestamp>
+  <sectionId>1</sectionId>
+</detectionMessage> 
+<signalMessage>
+  <sectionId>7</sectionId>
+  <blockNr>2</blockNr>
+  <openClosed>0</openClosed>
+  <timeStamp class="sql-timestamp">2017-11-08 22:54:41.582</timeStamp>
+</signalMessage> 
+<detectionMessage>
+  <rideId>7</rideId>
+  <blockNr>1</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:54:38.71</timestamp>
+  <sectionId>5</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>6</rideId>
+  <blockNr>5</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:54:43.501</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<signalMessage>
+  <sectionId>1</sectionId>
+  <blockNr>3</blockNr>
+  <openClosed>0</openClosed>
+  <timeStamp class="sql-timestamp">2017-11-08 22:54:48.38</timeStamp>
+</signalMessage> 
+<detectionMessage>
+  <rideId>5</rideId>
+  <blockNr>7</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:54:42.527</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<signalMessage>
+  <sectionId>7</sectionId>
+  <blockNr>2</blockNr>
+  <openClosed>0</openClosed>
+  <timeStamp class="sql-timestamp">2017-11-08 22:54:47.329</timeStamp>
+</signalMessage> 
+<detectionMessage>
+  <rideId>8</rideId>
+  <blockNr>3</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:54:44.426</timestamp>
+  <sectionId>5</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>1</rideId>
+  <blockNr>6</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:54:45.39</timestamp>
+  <sectionId>1</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>9</rideId>
+  <blockNr>5</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:54:49.325</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>2</rideId>
+  <blockNr>6</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:54:52.052</timestamp>
+  <sectionId>1</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>7</rideId>
+  <blockNr>2</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:54:50.205</timestamp>
+  <sectionId>5</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>3</rideId>
+  <blockNr>4</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:54:46.363</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>4</rideId>
+  <blockNr>5</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:54:54.0</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>2</rideId>
+  <blockNr>7</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:54:57.604</timestamp>
+  <sectionId>1</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>5</rideId>
+  <blockNr>8</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:54:53.017</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>1</rideId>
+  <blockNr>7</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:54:55.75</timestamp>
+  <sectionId>1</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>6</rideId>
+  <blockNr>6</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:54:51.136</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>2</rideId>
+  <blockNr>8</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:55:01.286</timestamp>
+  <sectionId>1</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>9</rideId>
+  <blockNr>6</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:54:56.698</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>7</rideId>
+  <blockNr>3</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:54:58.495</timestamp>
+  <sectionId>5</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>8</rideId>
+  <blockNr>1</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:54:54.878</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<signalMessage>
+  <sectionId>7</sectionId>
+  <blockNr>2</blockNr>
+  <openClosed>0</openClosed>
+  <timeStamp class="sql-timestamp">2017-11-08 22:54:59.382</timeStamp>
+</signalMessage> 
+<detectionMessage>
+  <rideId>5</rideId>
+  <blockNr>9</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:55:02.161</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>2</rideId>
+  <blockNr>9</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:55:04.981</timestamp>
+  <sectionId>1</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>4</rideId>
+  <blockNr>6</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:55:00.349</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>1</rideId>
+  <blockNr>8</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:55:03.137</timestamp>
+  <sectionId>1</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>7</rideId>
+  <blockNr>1</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:55:06.824</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>9</rideId>
+  <blockNr>7</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:55:05.875</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<signalMessage>
+  <sectionId>1</sectionId>
+  <blockNr>7</blockNr>
+  <openClosed>0</openClosed>
+  <timeStamp class="sql-timestamp">2017-11-08 22:55:10.63</timeStamp>
+</signalMessage> 
+<detectionMessage>
+  <rideId>6</rideId>
+  <blockNr>7</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:55:04.013</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>5</rideId>
+  <blockNr>10</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:55:09.733</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>3</rideId>
+  <blockNr>5</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:55:08.801</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>1</rideId>
+  <blockNr>9</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:55:12.466</timestamp>
+  <sectionId>1</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>8</rideId>
+  <blockNr>2</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:55:07.784</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>9</rideId>
+  <blockNr>8</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:55:14.369</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>5</rideId>
+  <blockNr>1</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:55:17.024</timestamp>
+  <sectionId>6</sectionId>
+</detectionMessage> 
+<signalMessage>
+  <sectionId>1</sectionId>
+  <blockNr>7</blockNr>
+  <openClosed>0</openClosed>
+  <timeStamp class="sql-timestamp">2017-11-08 22:55:18.904</timeStamp>
+</signalMessage> 
+<detectionMessage>
+  <rideId>7</rideId>
+  <blockNr>2</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:55:13.448</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>4</rideId>
+  <blockNr>7</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:55:11.602</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>2</rideId>
+  <blockNr>10</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:55:15.245</timestamp>
+  <sectionId>1</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>8</rideId>
+  <blockNr>3</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:55:19.796</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>5</rideId>
+  <blockNr>2</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:55:21.645</timestamp>
+  <sectionId>6</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>1</rideId>
+  <blockNr>10</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:55:22.551</timestamp>
+  <sectionId>1</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>3</rideId>
+  <blockNr>6</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:55:18.006</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>6</rideId>
+  <blockNr>8</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:55:16.134</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>4</rideId>
+  <blockNr>8</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:55:24.465</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>5</rideId>
+  <blockNr>3</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:55:27.297</timestamp>
+  <sectionId>6</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>7</rideId>
+  <blockNr>3</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:55:23.555</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>2</rideId>
+  <blockNr>1</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:55:25.382</timestamp>
+  <sectionId>5</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>9</rideId>
+  <blockNr>9</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:55:20.687</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>3</rideId>
+  <blockNr>7</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:55:29.262</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>5</rideId>
+  <blockNr>1</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:55:31.981</timestamp>
+  <sectionId>2</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>7</rideId>
+  <blockNr>1</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:55:51.045</timestamp>
+  <sectionId>3</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>7</rideId>
+  <blockNr>2</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:55:55.25</timestamp>
+  <sectionId>3</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>9</rideId>
+  <blockNr>1</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:55:59.046</timestamp>
+  <sectionId>5</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>1</rideId>
+  <blockNr>1</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:55:59.147</timestamp>
+  <sectionId>1</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>9</rideId>
+  <blockNr>2</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:56:00.942</timestamp>
+  <sectionId>5</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>7</rideId>
+  <blockNr>3</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:55:59.204</timestamp>
+  <sectionId>3</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>2</rideId>
+  <blockNr>1</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:56:00.149</timestamp>
+  <sectionId>1</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>1</rideId>
+  <blockNr>2</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:56:02.109</timestamp>
+  <sectionId>1</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>9</rideId>
+  <blockNr>3</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:56:03.057</timestamp>
+  <sectionId>5</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>2</rideId>
+  <blockNr>2</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:56:04.919</timestamp>
+  <sectionId>1</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>7</rideId>
+  <blockNr>4</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:56:03.972</timestamp>
+  <sectionId>3</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>1</rideId>
+  <blockNr>3</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:56:05.865</timestamp>
+  <sectionId>1</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>6</rideId>
+  <blockNr>1</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:56:05.349</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>2</rideId>
+  <blockNr>3</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:56:07.844</timestamp>
+  <sectionId>1</sectionId>
+</detectionMessage> 
+<signalMessage>
+  <sectionId>1</sectionId>
+  <blockNr>7</blockNr>
+  <openClosed>1</openClosed>
+  <timeStamp class="sql-timestamp">2017-11-08 22:56:09.77</timeStamp>
+</signalMessage> 
+<detectionMessage>
+  <rideId>9</rideId>
+  <blockNr>1</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:56:06.754</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>6</rideId>
+  <blockNr>2</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:56:10.712</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>5</rideId>
+  <blockNr>1</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:56:09.35</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>7</rideId>
+  <blockNr>5</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:56:08.814</timestamp>
+  <sectionId>3</sectionId>
+</detectionMessage> 
+<signalMessage>
+  <sectionId>1</sectionId>
+  <blockNr>7</blockNr>
+  <openClosed>1</openClosed>
+  <timeStamp class="sql-timestamp">2017-11-08 22:56:11.627</timeStamp>
+</signalMessage> 
+<detectionMessage>
+  <rideId>6</rideId>
+  <blockNr>3</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:56:14.504</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>9</rideId>
+  <blockNr>2</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:56:13.521</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>1</rideId>
+  <blockNr>4</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:56:12.522</timestamp>
+  <sectionId>1</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>2</rideId>
+  <blockNr>4</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:56:17.204</timestamp>
+  <sectionId>1</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>5</rideId>
+  <blockNr>2</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:56:15.442</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>7</rideId>
+  <blockNr>1</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:56:16.312</timestamp>
+  <sectionId>5</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>1</rideId>
+  <blockNr>5</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:56:20.062</timestamp>
+  <sectionId>1</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>4</rideId>
+  <blockNr>1</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:56:19.452</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>9</rideId>
+  <blockNr>3</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:56:19.099</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>6</rideId>
+  <blockNr>4</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:56:18.119</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>5</rideId>
+  <blockNr>3</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:56:22.789</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>7</rideId>
+  <blockNr>2</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 22:56:23.715</timestamp>
+  <sectionId>5</sectionId>
+</detectionMessage> 
+<signalMessage>
+  <sectionId>1</sectionId>
+  <blockNr>3</blockNr>
+  <openClosed>0</openClosed>
+  <timeStamp class="sql-timestamp">2017-11-08 22:56:24.655</timeStamp>
+</signalMessage> 
+<signalMessage>
+  <sectionId>7</sectionId>
+  <blockNr>2</blockNr>
+  <openClosed>0</openClosed>
+  <timeStamp class="sql-timestamp">2017-11-08 23:08:26.93</timeStamp>
+</signalMessage> 
+<signalMessage>
+  <sectionId>7</sectionId>
+  <blockNr>2</blockNr>
+  <openClosed>0</openClosed>
+  <timeStamp class="sql-timestamp">2017-11-08 23:08:32.661</timeStamp>
+</signalMessage> 
+<signalMessage>
+  <sectionId>7</sectionId>
+  <blockNr>2</blockNr>
+  <openClosed>0</openClosed>
+  <timeStamp class="sql-timestamp">2017-11-08 23:09:01.588</timeStamp>
+</signalMessage> 
+<signalMessage>
+  <sectionId>7</sectionId>
+  <blockNr>2</blockNr>
+  <openClosed>0</openClosed>
+  <timeStamp class="sql-timestamp">2017-11-08 23:09:00.666</timeStamp>
+</signalMessage> 
+<signalMessage>
+  <sectionId>1</sectionId>
+  <blockNr>7</blockNr>
+  <openClosed>1</openClosed>
+  <timeStamp class="sql-timestamp">2017-11-08 23:09:05.392</timeStamp>
+</signalMessage> 
+<signalMessage>
+  <sectionId>1</sectionId>
+  <blockNr>7</blockNr>
+  <openClosed>1</openClosed>
+  <timeStamp class="sql-timestamp">2017-11-08 23:09:13.114</timeStamp>
+</signalMessage> 
+<signalMessage>
+  <sectionId>7</sectionId>
+  <blockNr>2</blockNr>
+  <openClosed>0</openClosed>
+  <timeStamp class="sql-timestamp">2017-11-08 23:09:20.881</timeStamp>
+</signalMessage> 
+<detectionMessage>
+  <rideId>3</rideId>
+  <blockNr>1</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:08:12.874</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>3</rideId>
+  <blockNr>2</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:08:16.498</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>5</rideId>
+  <blockNr>1</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:08:16.975</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>3</rideId>
+  <blockNr>3</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:08:20.031</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>5</rideId>
+  <blockNr>2</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:08:20.957</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>3</rideId>
+  <blockNr>4</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:08:23.514</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>7</rideId>
+  <blockNr>1</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:08:23.179</timestamp>
+  <sectionId>3</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>5</rideId>
+  <blockNr>3</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:08:24.486</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>7</rideId>
+  <blockNr>2</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:08:27.869</timestamp>
+  <sectionId>3</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>5</rideId>
+  <blockNr>4</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:08:28.861</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>3</rideId>
+  <blockNr>5</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:08:29.749</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>9</rideId>
+  <blockNr>1</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:08:31.179</timestamp>
+  <sectionId>5</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>7</rideId>
+  <blockNr>3</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:08:31.759</timestamp>
+  <sectionId>3</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>3</rideId>
+  <blockNr>6</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:08:33.647</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>9</rideId>
+  <blockNr>2</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:08:34.568</timestamp>
+  <sectionId>5</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>5</rideId>
+  <blockNr>5</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:08:35.493</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>4</rideId>
+  <blockNr>1</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:08:34.18</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>3</rideId>
+  <blockNr>7</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:08:37.39</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>7</rideId>
+  <blockNr>4</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:08:36.421</timestamp>
+  <sectionId>3</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>9</rideId>
+  <blockNr>3</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:08:38.338</timestamp>
+  <sectionId>5</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>4</rideId>
+  <blockNr>2</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:08:40.272</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>5</rideId>
+  <blockNr>6</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:08:39.333</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>6</rideId>
+  <blockNr>1</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:08:39.18</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>9</rideId>
+  <blockNr>1</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:08:42.988</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>7</rideId>
+  <blockNr>5</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:08:42.088</timestamp>
+  <sectionId>3</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>3</rideId>
+  <blockNr>8</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:08:41.2</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>6</rideId>
+  <blockNr>2</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:08:45.795</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>1</rideId>
+  <blockNr>1</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:08:46.282</timestamp>
+  <sectionId>1</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>5</rideId>
+  <blockNr>7</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:08:44.843</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>4</rideId>
+  <blockNr>3</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:08:43.951</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>6</rideId>
+  <blockNr>3</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:08:49.472</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>3</rideId>
+  <blockNr>9</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:08:48.55</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>2</rideId>
+  <blockNr>1</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:08:47.284</timestamp>
+  <sectionId>1</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>9</rideId>
+  <blockNr>2</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:08:46.756</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>8</rideId>
+  <blockNr>1</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:08:46.181</timestamp>
+  <sectionId>3</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>7</rideId>
+  <blockNr>1</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:08:47.644</timestamp>
+  <sectionId>5</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>2</rideId>
+  <blockNr>2</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:08:55.02</timestamp>
+  <sectionId>1</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>3</rideId>
+  <blockNr>10</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:08:54.044</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>6</rideId>
+  <blockNr>4</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:08:53.071</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>4</rideId>
+  <blockNr>4</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:08:52.181</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>5</rideId>
+  <blockNr>8</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:08:51.236</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>1</rideId>
+  <blockNr>2</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:08:50.362</timestamp>
+  <sectionId>1</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>2</rideId>
+  <blockNr>3</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:08:58.875</timestamp>
+  <sectionId>1</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>8</rideId>
+  <blockNr>2</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:08:56.87</timestamp>
+  <sectionId>3</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>7</rideId>
+  <blockNr>2</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:08:57.862</timestamp>
+  <sectionId>5</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>9</rideId>
+  <blockNr>3</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:08:55.946</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>7</rideId>
+  <blockNr>3</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:09:08.209</timestamp>
+  <sectionId>5</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>6</rideId>
+  <blockNr>5</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:09:06.377</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>4</rideId>
+  <blockNr>5</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:09:04.408</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>1</rideId>
+  <blockNr>3</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:09:03.493</timestamp>
+  <sectionId>1</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>5</rideId>
+  <blockNr>9</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:09:02.548</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>3</rideId>
+  <blockNr>1</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:08:59.772</timestamp>
+  <sectionId>6</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>4</rideId>
+  <blockNr>6</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:09:12.13</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>6</rideId>
+  <blockNr>6</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:09:11.187</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>7</rideId>
+  <blockNr>1</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:09:10.246</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>9</rideId>
+  <blockNr>4</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:09:09.297</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>8</rideId>
+  <blockNr>3</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:09:07.261</timestamp>
+  <sectionId>3</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>1</rideId>
+  <blockNr>4</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:09:18.97</timestamp>
+  <sectionId>1</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>6</rideId>
+  <blockNr>7</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:09:17.95</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>3</rideId>
+  <blockNr>2</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:09:16.102</timestamp>
+  <sectionId>6</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>4</rideId>
+  <blockNr>7</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:09:17.043</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>5</rideId>
+  <blockNr>10</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:09:15.161</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>2</rideId>
+  <blockNr>4</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:09:14.173</timestamp>
+  <sectionId>1</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>6</rideId>
+  <blockNr>8</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:09:24.524</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>9</rideId>
+  <blockNr>5</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:09:23.584</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>8</rideId>
+  <blockNr>4</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:09:21.754</timestamp>
+  <sectionId>3</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>1</rideId>
+  <blockNr>5</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:09:22.63</timestamp>
+  <sectionId>1</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>7</rideId>
+  <blockNr>2</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:09:19.947</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>9</rideId>
+  <blockNr>6</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:09:30.254</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<signalMessage>
+  <sectionId>1</sectionId>
+  <blockNr>3</blockNr>
+  <openClosed>0</openClosed>
+  <timeStamp class="sql-timestamp">2017-11-08 23:09:32.084</timeStamp>
+</signalMessage> 
+<detectionMessage>
+  <rideId>6</rideId>
+  <blockNr>9</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:09:29.364</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>5</rideId>
+  <blockNr>1</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:09:27.33</timestamp>
+  <sectionId>6</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>2</rideId>
+  <blockNr>5</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:09:28.255</timestamp>
+  <sectionId>1</sectionId>
+</detectionMessage> 
+<signalMessage>
+  <sectionId>1</sectionId>
+  <blockNr>3</blockNr>
+  <openClosed>0</openClosed>
+  <timeStamp class="sql-timestamp">2017-11-08 23:09:41.311</timeStamp>
+</signalMessage> 
+<signalMessage>
+  <sectionId>7</sectionId>
+  <blockNr>2</blockNr>
+  <openClosed>0</openClosed>
+  <timeStamp class="sql-timestamp">2017-11-08 23:10:08.721</timeStamp>
+</signalMessage> 
+<detectionMessage>
+  <rideId>8</rideId>
+  <blockNr>5</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:09:31.203</timestamp>
+  <sectionId>3</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>3</rideId>
+  <blockNr>1</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:09:49.003</timestamp>
+  <sectionId>4</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>1</rideId>
+  <blockNr>6</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:09:34.936</timestamp>
+  <sectionId>1</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>4</rideId>
+  <blockNr>8</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:09:26.414</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>5</rideId>
+  <blockNr>2</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:09:36.776</timestamp>
+  <sectionId>6</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>6</rideId>
+  <blockNr>10</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:09:35.828</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>9</rideId>
+  <blockNr>7</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:09:34.017</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>7</rideId>
+  <blockNr>3</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:09:32.968</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>4</rideId>
+  <blockNr>9</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:09:59.369</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>3</rideId>
+  <blockNr>2</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:09:56.628</timestamp>
+  <sectionId>4</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>8</rideId>
+  <blockNr>1</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:09:54.886</timestamp>
+  <sectionId>5</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>4</rideId>
+  <blockNr>10</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:10:04.261</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>7</rideId>
+  <blockNr>4</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:10:03.368</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>6</rideId>
+  <blockNr>1</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:10:01.575</timestamp>
+  <sectionId>6</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>9</rideId>
+  <blockNr>8</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:10:02.443</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>5</rideId>
+  <blockNr>3</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:10:00.272</timestamp>
+  <sectionId>6</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>8</rideId>
+  <blockNr>2</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:10:06.805</timestamp>
+  <sectionId>5</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>3</rideId>
+  <blockNr>3</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:10:05.913</timestamp>
+  <sectionId>4</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>6</rideId>
+  <blockNr>2</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:10:09.631</timestamp>
+  <sectionId>6</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>9</rideId>
+  <blockNr>9</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:10:10.561</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>5</rideId>
+  <blockNr>1</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:10:11.466</timestamp>
+  <sectionId>2</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>4</rideId>
+  <blockNr>1</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:10:07.789</timestamp>
+  <sectionId>6</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>3</rideId>
+  <blockNr>4</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:10:14.266</timestamp>
+  <sectionId>4</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>7</rideId>
+  <blockNr>5</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:10:12.381</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>8</rideId>
+  <blockNr>3</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:10:13.317</timestamp>
+  <sectionId>5</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>3</rideId>
+  <blockNr>5</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:10:18.843</timestamp>
+  <sectionId>4</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>6</rideId>
+  <blockNr>3</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:10:15.192</timestamp>
+  <sectionId>6</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>9</rideId>
+  <blockNr>10</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:10:16.135</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>5</rideId>
+  <blockNr>2</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:10:17.043</timestamp>
+  <sectionId>2</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>6</rideId>
+  <blockNr>1</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:10:22.632</timestamp>
+  <sectionId>2</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>8</rideId>
+  <blockNr>1</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:10:20.801</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>7</rideId>
+  <blockNr>6</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:10:19.783</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>4</rideId>
+  <blockNr>2</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:10:17.934</timestamp>
+  <sectionId>6</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>6</rideId>
+  <blockNr>2</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:10:25.773</timestamp>
+  <sectionId>2</sectionId>
+</detectionMessage> 
+<signalMessage>
+  <sectionId>2</sectionId>
+  <blockNr>7</blockNr>
+  <openClosed>1</openClosed>
+  <timeStamp class="sql-timestamp">2017-11-08 23:10:30.766</timeStamp>
+</signalMessage> 
+<signalMessage>
+  <sectionId>2</sectionId>
+  <blockNr>7</blockNr>
+  <openClosed>1</openClosed>
+  <timeStamp class="sql-timestamp">2017-11-08 23:10:34.563</timeStamp>
+</signalMessage> 
+<detectionMessage>
+  <rideId>5</rideId>
+  <blockNr>3</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:10:24.813</timestamp>
+  <sectionId>2</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>7</rideId>
+  <blockNr>7</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:10:27.625</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>8</rideId>
+  <blockNr>2</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:10:26.71</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>4</rideId>
+  <blockNr>3</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:10:28.57</timestamp>
+  <sectionId>6</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>6</rideId>
+  <blockNr>3</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:10:29.852</timestamp>
+  <sectionId>2</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>8</rideId>
+  <blockNr>3</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:10:32.657</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>4</rideId>
+  <blockNr>1</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:10:33.602</timestamp>
+  <sectionId>4</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>7</rideId>
+  <blockNr>8</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:10:31.731</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>8</rideId>
+  <blockNr>4</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:10:36.491</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<signalMessage>
+  <sectionId>7</sectionId>
+  <blockNr>2</blockNr>
+  <openClosed>0</openClosed>
+  <timeStamp class="sql-timestamp">2017-11-08 23:10:40.217</timeStamp>
+</signalMessage> 
+<detectionMessage>
+  <rideId>4</rideId>
+  <blockNr>2</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:10:37.42</timestamp>
+  <sectionId>4</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>5</rideId>
+  <blockNr>4</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:10:35.562</timestamp>
+  <sectionId>2</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>7</rideId>
+  <blockNr>9</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:10:39.336</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>6</rideId>
+  <blockNr>4</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:10:38.387</timestamp>
+  <sectionId>2</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>5</rideId>
+  <blockNr>5</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:10:42.103</timestamp>
+  <sectionId>2</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>4</rideId>
+  <blockNr>3</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:10:41.15</timestamp>
+  <sectionId>4</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>8</rideId>
+  <blockNr>5</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:10:43.941</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<signalMessage>
+  <sectionId>2</sectionId>
+  <blockNr>3</blockNr>
+  <openClosed>0</openClosed>
+  <timeStamp class="sql-timestamp">2017-11-08 23:10:45.817</timeStamp>
+</signalMessage> 
+<detectionMessage>
+  <rideId>6</rideId>
+  <blockNr>5</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:10:44.85</timestamp>
+  <sectionId>2</sectionId>
+</detectionMessage> 
+<signalMessage>
+  <sectionId>2</sectionId>
+  <blockNr>3</blockNr>
+  <openClosed>0</openClosed>
+  <timeStamp class="sql-timestamp">2017-11-08 23:10:48.554</timeStamp>
+</signalMessage> 
+<detectionMessage>
+  <rideId>7</rideId>
+  <blockNr>10</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:10:43.024</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>8</rideId>
+  <blockNr>6</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:10:47.648</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>4</rideId>
+  <blockNr>4</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:10:46.767</timestamp>
+  <sectionId>4</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>5</rideId>
+  <blockNr>6</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:10:49.433</timestamp>
+  <sectionId>2</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>8</rideId>
+  <blockNr>7</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:10:51.361</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>6</rideId>
+  <blockNr>6</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:10:52.305</timestamp>
+  <sectionId>2</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>5</rideId>
+  <blockNr>7</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:10:54.191</timestamp>
+  <sectionId>2</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>4</rideId>
+  <blockNr>5</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:10:53.227</timestamp>
+  <sectionId>4</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>8</rideId>
+  <blockNr>8</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:10:55.134</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>6</rideId>
+  <blockNr>7</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:10:56.023</timestamp>
+  <sectionId>2</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>5</rideId>
+  <blockNr>8</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:10:57.011</timestamp>
+  <sectionId>2</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>6</rideId>
+  <blockNr>8</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:10:59.68</timestamp>
+  <sectionId>2</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>1</rideId>
+  <blockNr>1</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:16:21.425</timestamp>
+  <sectionId>1</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>1</rideId>
+  <blockNr>2</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:16:24.579</timestamp>
+  <sectionId>1</sectionId>
+</detectionMessage> 
+<signalMessage>
+  <sectionId>1</sectionId>
+  <blockNr>7</blockNr>
+  <openClosed>1</openClosed>
+  <timeStamp class="sql-timestamp">2017-11-08 23:16:31.985</timeStamp>
+</signalMessage> 
+<detectionMessage>
+  <rideId>6</rideId>
+  <blockNr>1</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:16:26.626</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>2</rideId>
+  <blockNr>1</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:16:27.627</timestamp>
+  <sectionId>1</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>1</rideId>
+  <blockNr>3</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:16:27.531</timestamp>
+  <sectionId>1</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>6</rideId>
+  <blockNr>2</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:16:30.081</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>3</rideId>
+  <blockNr>1</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:16:29.728</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<signalMessage>
+  <sectionId>1</sectionId>
+  <blockNr>7</blockNr>
+  <openClosed>1</openClosed>
+  <timeStamp class="sql-timestamp">2017-11-08 23:16:41.512</timeStamp>
+</signalMessage> 
+<detectionMessage>
+  <rideId>2</rideId>
+  <blockNr>2</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:16:31.02</timestamp>
+  <sectionId>1</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>4</rideId>
+  <blockNr>1</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:16:32.729</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<signalMessage>
+  <sectionId>7</sectionId>
+  <blockNr>2</blockNr>
+  <openClosed>0</openClosed>
+  <timeStamp class="sql-timestamp">2017-11-08 23:16:46.232</timeStamp>
+</signalMessage> 
+<signalMessage>
+  <sectionId>1</sectionId>
+  <blockNr>3</blockNr>
+  <openClosed>0</openClosed>
+  <timeStamp class="sql-timestamp">2017-11-08 23:16:43.349</timeStamp>
+</signalMessage> 
+<signalMessage>
+  <sectionId>7</sectionId>
+  <blockNr>2</blockNr>
+  <openClosed>0</openClosed>
+  <timeStamp class="sql-timestamp">2017-11-08 23:16:50.097</timeStamp>
+</signalMessage> 
+<signalMessage>
+  <sectionId>7</sectionId>
+  <blockNr>2</blockNr>
+  <openClosed>0</openClosed>
+  <timeStamp class="sql-timestamp">2017-11-08 23:16:48.125</timeStamp>
+</signalMessage> 
+<detectionMessage>
+  <rideId>1</rideId>
+  <blockNr>4</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:16:32.966</timestamp>
+  <sectionId>1</sectionId>
+</detectionMessage> 
+<signalMessage>
+  <sectionId>1</sectionId>
+  <blockNr>3</blockNr>
+  <openClosed>0</openClosed>
+  <timeStamp class="sql-timestamp">2017-11-08 23:17:05.833</timeStamp>
+</signalMessage> 
+<detectionMessage>
+  <rideId>3</rideId>
+  <blockNr>2</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:16:34.853</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>6</rideId>
+  <blockNr>3</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:16:33.955</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>4</rideId>
+  <blockNr>2</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:16:36.8</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>2</rideId>
+  <blockNr>3</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:16:35.817</timestamp>
+  <sectionId>1</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>3</rideId>
+  <blockNr>3</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:16:38.705</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>1</rideId>
+  <blockNr>5</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:16:37.749</timestamp>
+  <sectionId>1</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>4</rideId>
+  <blockNr>3</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:16:40.584</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>9</rideId>
+  <blockNr>1</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:16:40.73</timestamp>
+  <sectionId>5</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>6</rideId>
+  <blockNr>4</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:16:39.653</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>4</rideId>
+  <blockNr>4</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:16:44.33</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>3</rideId>
+  <blockNr>4</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:16:42.452</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>8</rideId>
+  <blockNr>1</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:16:47.831</timestamp>
+  <sectionId>3</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>2</rideId>
+  <blockNr>4</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:16:47.144</timestamp>
+  <sectionId>1</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>9</rideId>
+  <blockNr>2</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:16:45.318</timestamp>
+  <sectionId>5</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>3</rideId>
+  <blockNr>5</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:16:52.03</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>8</rideId>
+  <blockNr>2</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:16:52.898</timestamp>
+  <sectionId>3</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>5</rideId>
+  <blockNr>1</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:16:51.831</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>1</rideId>
+  <blockNr>6</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:16:50.992</timestamp>
+  <sectionId>1</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>6</rideId>
+  <blockNr>5</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:16:49.099</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>7</rideId>
+  <blockNr>1</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:16:57.831</timestamp>
+  <sectionId>3</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>3</rideId>
+  <blockNr>6</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:16:56.56</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>8</rideId>
+  <blockNr>3</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:16:57.484</timestamp>
+  <sectionId>3</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>9</rideId>
+  <blockNr>3</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:16:55.629</timestamp>
+  <sectionId>5</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>4</rideId>
+  <blockNr>5</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:16:54.755</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>2</rideId>
+  <blockNr>5</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:16:53.844</timestamp>
+  <sectionId>1</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>3</rideId>
+  <blockNr>7</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:17:02.158</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>8</rideId>
+  <blockNr>4</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:17:03.098</timestamp>
+  <sectionId>3</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>6</rideId>
+  <blockNr>6</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:17:00.219</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>7</rideId>
+  <blockNr>2</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:17:01.181</timestamp>
+  <sectionId>3</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>1</rideId>
+  <blockNr>7</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:16:59.301</timestamp>
+  <sectionId>1</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>5</rideId>
+  <blockNr>2</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:16:58.368</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>6</rideId>
+  <blockNr>7</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:17:08.617</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>7</rideId>
+  <blockNr>3</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:17:09.558</timestamp>
+  <sectionId>3</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>3</rideId>
+  <blockNr>8</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:17:06.799</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>8</rideId>
+  <blockNr>5</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:17:07.699</timestamp>
+  <sectionId>3</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>4</rideId>
+  <blockNr>6</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:17:04.918</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>9</rideId>
+  <blockNr>1</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:17:04.005</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>8</rideId>
+  <blockNr>1</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:17:15.485</timestamp>
+  <sectionId>5</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>3</rideId>
+  <blockNr>9</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:17:14.157</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>6</rideId>
+  <blockNr>8</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:17:12.351</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>7</rideId>
+  <blockNr>4</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:17:13.257</timestamp>
+  <sectionId>3</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>5</rideId>
+  <blockNr>3</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:17:11.46</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>1</rideId>
+  <blockNr>8</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:17:10.502</timestamp>
+  <sectionId>1</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>6</rideId>
+  <blockNr>9</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:17:21.145</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>7</rideId>
+  <blockNr>5</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:17:22.137</timestamp>
+  <sectionId>3</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>3</rideId>
+  <blockNr>10</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:17:20.255</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>8</rideId>
+  <blockNr>2</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:17:19.271</timestamp>
+  <sectionId>5</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>2</rideId>
+  <blockNr>6</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:17:18.336</timestamp>
+  <sectionId>1</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>9</rideId>
+  <blockNr>2</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:17:17.424</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>4</rideId>
+  <blockNr>7</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:17:16.477</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>8</rideId>
+  <blockNr>3</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:17:27.712</timestamp>
+  <sectionId>5</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>7</rideId>
+  <blockNr>1</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:17:25.887</timestamp>
+  <sectionId>5</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>3</rideId>
+  <blockNr>1</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:17:26.819</timestamp>
+  <sectionId>6</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>6</rideId>
+  <blockNr>10</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:17:24.986</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>1</rideId>
+  <blockNr>9</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:17:24.04</timestamp>
+  <sectionId>1</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>5</rideId>
+  <blockNr>4</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:17:23.098</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>6</rideId>
+  <blockNr>1</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:17:34.257</timestamp>
+  <sectionId>6</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>7</rideId>
+  <blockNr>2</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:17:32.347</timestamp>
+  <sectionId>5</sectionId>
+</detectionMessage> 
+<signalMessage>
+  <sectionId>1</sectionId>
+  <blockNr>7</blockNr>
+  <openClosed>0</openClosed>
+  <timeStamp class="sql-timestamp">2017-11-08 23:17:35.255</timeStamp>
+</signalMessage> 
+<detectionMessage>
+  <rideId>3</rideId>
+  <blockNr>2</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:17:33.31</timestamp>
+  <sectionId>6</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>8</rideId>
+  <blockNr>1</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:17:31.373</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>4</rideId>
+  <blockNr>8</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:17:30.486</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>9</rideId>
+  <blockNr>3</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:17:29.536</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>2</rideId>
+  <blockNr>7</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:17:28.666</timestamp>
+  <sectionId>1</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>8</rideId>
+  <blockNr>2</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:17:40.906</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>3</rideId>
+  <blockNr>3</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:17:39.965</timestamp>
+  <sectionId>6</sectionId>
+</detectionMessage> 
+<signalMessage>
+  <sectionId>7</sectionId>
+  <blockNr>2</blockNr>
+  <openClosed>0</openClosed>
+  <timeStamp class="sql-timestamp">2017-11-08 23:17:36.192</timeStamp>
+</signalMessage> 
+<detectionMessage>
+  <rideId>7</rideId>
+  <blockNr>3</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:17:38.962</timestamp>
+  <sectionId>5</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>1</rideId>
+  <blockNr>10</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:17:38.071</timestamp>
+  <sectionId>1</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>6</rideId>
+  <blockNr>2</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:17:37.152</timestamp>
+  <sectionId>6</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>7</rideId>
+  <blockNr>1</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:17:46.532</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>8</rideId>
+  <blockNr>3</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:17:44.618</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>3</rideId>
+  <blockNr>1</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:17:45.59</timestamp>
+  <sectionId>4</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>2</rideId>
+  <blockNr>8</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:17:43.716</timestamp>
+  <sectionId>1</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>9</rideId>
+  <blockNr>4</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:17:42.792</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>4</rideId>
+  <blockNr>9</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:17:41.849</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>8</rideId>
+  <blockNr>4</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:17:51.212</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<signalMessage>
+  <sectionId>7</sectionId>
+  <blockNr>2</blockNr>
+  <openClosed>0</openClosed>
+  <timeStamp class="sql-timestamp">2017-11-08 23:17:53.974</timeStamp>
+</signalMessage> 
+<detectionMessage>
+  <rideId>3</rideId>
+  <blockNr>2</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:17:52.152</timestamp>
+  <sectionId>4</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>7</rideId>
+  <blockNr>2</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:17:50.257</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>5</rideId>
+  <blockNr>5</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:17:49.3</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>1</rideId>
+  <blockNr>1</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:17:47.43</timestamp>
+  <sectionId>5</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>6</rideId>
+  <blockNr>3</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:17:48.338</timestamp>
+  <sectionId>6</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>2</rideId>
+  <blockNr>9</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:17:53.045</timestamp>
+  <sectionId>1</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>3</rideId>
+  <blockNr>3</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:17:57.694</timestamp>
+  <sectionId>4</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>4</rideId>
+  <blockNr>10</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:17:54.94</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>6</rideId>
+  <blockNr>1</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:18:01.363</timestamp>
+  <sectionId>2</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>5</rideId>
+  <blockNr>6</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:17:59.533</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>9</rideId>
+  <blockNr>5</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:17:55.826</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>4</rideId>
+  <blockNr>1</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:18:45.76</timestamp>
+  <sectionId>6</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>3</rideId>
+  <blockNr>4</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:18:44.864</timestamp>
+  <sectionId>4</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>8</rideId>
+  <blockNr>5</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:18:24.745</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<signalMessage>
+  <sectionId>1</sectionId>
+  <blockNr>7</blockNr>
+  <openClosed>0</openClosed>
+  <timeStamp class="sql-timestamp">2017-11-08 23:18:43.91</timeStamp>
+</signalMessage> 
+<detectionMessage>
+  <rideId>7</rideId>
+  <blockNr>4</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:18:12.942</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>3</rideId>
+  <blockNr>5</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:18:50.386</timestamp>
+  <sectionId>4</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>9</rideId>
+  <blockNr>6</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:18:48.501</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>4</rideId>
+  <blockNr>2</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:18:49.417</timestamp>
+  <sectionId>6</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>5</rideId>
+  <blockNr>7</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:18:47.605</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>6</rideId>
+  <blockNr>2</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:18:46.649</timestamp>
+  <sectionId>2</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>9</rideId>
+  <blockNr>7</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:18:55.703</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>4</rideId>
+  <blockNr>3</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:18:56.673</timestamp>
+  <sectionId>6</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>8</rideId>
+  <blockNr>6</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:18:52.202</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<signalMessage>
+  <sectionId>7</sectionId>
+  <blockNr>2</blockNr>
+  <openClosed>0</openClosed>
+  <timeStamp class="sql-timestamp">2017-11-08 23:18:53.147</timeStamp>
+</signalMessage> 
+<detectionMessage>
+  <rideId>9</rideId>
+  <blockNr>8</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:18:59.409</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>4</rideId>
+  <blockNr>1</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:19:00.364</timestamp>
+  <sectionId>4</sectionId>
+</detectionMessage> 
+<signalMessage>
+  <sectionId>2</sectionId>
+  <blockNr>7</blockNr>
+  <openClosed>1</openClosed>
+  <timeStamp class="sql-timestamp">2017-11-08 23:19:04.901</timeStamp>
+</signalMessage> 
+<detectionMessage>
+  <rideId>6</rideId>
+  <blockNr>3</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:18:58.517</timestamp>
+  <sectionId>2</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>5</rideId>
+  <blockNr>8</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:18:57.602</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>9</rideId>
+  <blockNr>9</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:19:03.064</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>4</rideId>
+  <blockNr>2</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:19:03.999</timestamp>
+  <sectionId>4</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>7</rideId>
+  <blockNr>5</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:19:02.156</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>8</rideId>
+  <blockNr>7</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:19:01.288</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>9</rideId>
+  <blockNr>10</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:19:06.732</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>4</rideId>
+  <blockNr>3</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:19:07.615</timestamp>
+  <sectionId>4</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>5</rideId>
+  <blockNr>9</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:19:05.828</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>8</rideId>
+  <blockNr>8</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:19:10.442</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>7</rideId>
+  <blockNr>6</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:19:09.518</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>6</rideId>
+  <blockNr>4</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:19:08.618</timestamp>
+  <sectionId>2</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>5</rideId>
+  <blockNr>10</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:19:13.202</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>4</rideId>
+  <blockNr>4</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:19:12.296</timestamp>
+  <sectionId>4</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>7</rideId>
+  <blockNr>7</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:19:15.037</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>8</rideId>
+  <blockNr>9</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:19:14.101</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<signalMessage>
+  <sectionId>2</sectionId>
+  <blockNr>3</blockNr>
+  <openClosed>0</openClosed>
+  <timeStamp class="sql-timestamp">2017-11-08 23:19:21.654</timeStamp>
+</signalMessage> 
+<detectionMessage>
+  <rideId>4</rideId>
+  <blockNr>5</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:19:17.886</timestamp>
+  <sectionId>4</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>6</rideId>
+  <blockNr>5</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:19:15.935</timestamp>
+  <sectionId>2</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>5</rideId>
+  <blockNr>1</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:19:16.92</timestamp>
+  <sectionId>6</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>8</rideId>
+  <blockNr>10</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:19:19.81</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>7</rideId>
+  <blockNr>8</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:19:18.885</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>5</rideId>
+  <blockNr>2</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:19:22.53</timestamp>
+  <sectionId>6</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>6</rideId>
+  <blockNr>6</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:19:24.506</timestamp>
+  <sectionId>2</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>5</rideId>
+  <blockNr>3</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:19:26.323</timestamp>
+  <sectionId>6</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>7</rideId>
+  <blockNr>9</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:19:25.406</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>6</rideId>
+  <blockNr>7</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:19:27.497</timestamp>
+  <sectionId>2</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>5</rideId>
+  <blockNr>1</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:19:28.39</timestamp>
+  <sectionId>2</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>7</rideId>
+  <blockNr>10</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:19:29.344</timestamp>
+  <sectionId>7</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>6</rideId>
+  <blockNr>8</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:19:30.428</timestamp>
+  <sectionId>2</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>5</rideId>
+  <blockNr>2</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:19:31.333</timestamp>
+  <sectionId>2</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>6</rideId>
+  <blockNr>9</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:19:33.647</timestamp>
+  <sectionId>2</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>5</rideId>
+  <blockNr>3</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:19:34.59</timestamp>
+  <sectionId>2</sectionId>
+</detectionMessage> 
+<signalMessage>
+  <sectionId>2</sectionId>
+  <blockNr>7</blockNr>
+  <openClosed>0</openClosed>
+  <timeStamp class="sql-timestamp">2017-11-08 23:19:36.61</timeStamp>
+</signalMessage> 
+<signalMessage>
+  <sectionId>2</sectionId>
+  <blockNr>7</blockNr>
+  <openClosed>1</openClosed>
+  <timeStamp class="sql-timestamp">2017-11-08 23:19:37.557</timeStamp>
+</signalMessage> 
+<detectionMessage>
+  <rideId>6</rideId>
+  <blockNr>10</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:19:38.439</timestamp>
+  <sectionId>2</sectionId>
+</detectionMessage> 
+<signalMessage>
+  <sectionId>2</sectionId>
+  <blockNr>3</blockNr>
+  <openClosed>0</openClosed>
+  <timeStamp class="sql-timestamp">2017-11-08 23:19:45.234</timeStamp>
+</signalMessage> 
+<detectionMessage>
+  <rideId>5</rideId>
+  <blockNr>4</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:19:39.438</timestamp>
+  <sectionId>2</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>5</rideId>
+  <blockNr>5</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:19:42.33</timestamp>
+  <sectionId>2</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>5</rideId>
+  <blockNr>6</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:19:46.187</timestamp>
+  <sectionId>2</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>5</rideId>
+  <blockNr>7</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:19:49.06</timestamp>
+  <sectionId>2</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>5</rideId>
+  <blockNr>8</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:19:51.939</timestamp>
+  <sectionId>2</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>5</rideId>
+  <blockNr>9</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:19:54.863</timestamp>
+  <sectionId>2</sectionId>
+</detectionMessage> 
+<signalMessage>
+  <sectionId>2</sectionId>
+  <blockNr>7</blockNr>
+  <openClosed>0</openClosed>
+  <timeStamp class="sql-timestamp">2017-11-08 23:19:57.812</timeStamp>
+</signalMessage> 
+<detectionMessage>
+  <rideId>5</rideId>
+  <blockNr>10</blockNr>
+  <timestamp class="sql-timestamp">2017-11-08 23:19:58.757</timestamp>
+  <sectionId>2</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>1</rideId>
+  <blockNr>1</blockNr>
+  <timestamp>2017-11-02 16:14:28.399</timestamp>
+  <sectionId>1</sectionId>
+</detectionMessage> 
+<detectionMessage>
+  <rideId>1</rideId>
+  <blockNr>2</blockNr>
+  <timestamp>2017-11-02 16:14:28.399</timestamp>
+  <sectionId>1</sectionId>
+</detectionMessage> 
