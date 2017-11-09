@@ -1,8 +1,8 @@
 package Services.Interfaces;
 
-import Domain.MessageRecorder;
-import Domain.Messages.OutGoingMessage;
-import Domain.ServiceException;
+import Domain.Recorder.MessageRecorder;
+import Domain.Entitities.Messages.OutGoingMessage;
+import Domain.Entitities.Exceptions.ServiceException;
 
 public interface OutgoingMessageService {
     void setupQueue(String queueName) throws ServiceException;

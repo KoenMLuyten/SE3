@@ -1,8 +1,8 @@
 package Services.Interfaces;
 
-import Domain.Messages.IncomingMessageDTO;
-import Domain.Messages.OutGoingMessage;
-import Domain.ServiceException;
+import Domain.Entitities.Messages.IncomingMessageDTO;
+import Domain.Entitities.Messages.OutGoingMessage;
+import Domain.Entitities.Exceptions.ServiceException;
 
 /*
 * interface representing a MessageFormatter which turns an incoming message string into a IncomingMessageDTO

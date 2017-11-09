@@ -1,8 +1,8 @@
 package Services.Interfaces;
 
-import Domain.MessageListener;
-import Domain.MessageRecorder;
-import Domain.ServiceException;
+import Domain.Core.MessageListeners.MessageListener;
+import Domain.Recorder.MessageRecorder;
+import Domain.Entitities.Exceptions.ServiceException;
 
 
 /*

@@ -1,7 +1,7 @@
 package Services.Implementations;
 
-import Domain.Infrastructure.Section;
-import Domain.ServiceException;
+import Domain.Entitities.Infrastructure.Section;
+import Domain.Entitities.Exceptions.ServiceException;
 import Services.Interfaces.IInfrastructureService;
 import be.kdg.se3.services.railway.InfrastructureServiceProxy;
 import org.json.JSONException;

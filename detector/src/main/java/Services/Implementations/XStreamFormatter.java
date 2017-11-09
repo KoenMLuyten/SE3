@@ -1,8 +1,8 @@
 package Services.Implementations;
 
-import Domain.Messages.IncomingMessageDTO;
-import Domain.Messages.OutGoingMessage;
-import Domain.ServiceException;
+import Domain.Entitities.Messages.IncomingMessageDTO;
+import Domain.Entitities.Messages.OutGoingMessage;
+import Domain.Entitities.Exceptions.ServiceException;
 import Services.Interfaces.MessageFormatter;
 import com.thoughtworks.xstream.XStream;
 

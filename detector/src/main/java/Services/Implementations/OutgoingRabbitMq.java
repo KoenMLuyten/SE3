@@ -1,8 +1,8 @@
 package Services.Implementations;
 
-import Domain.MessageRecorder;
-import Domain.Messages.OutGoingMessage;
-import Domain.ServiceException;
+import Domain.Recorder.MessageRecorder;
+import Domain.Entitities.Messages.OutGoingMessage;
+import Domain.Entitities.Exceptions.ServiceException;
 import Services.Interfaces.MessageFormatter;
 import Services.Interfaces.OutgoingMessageService;
 import com.rabbitmq.client.ConnectionFactory;

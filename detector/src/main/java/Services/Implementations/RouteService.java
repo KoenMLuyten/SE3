@@ -1,8 +1,8 @@
 package Services.Implementations;
 
-import Domain.Infrastructure.Route;
-import Domain.Infrastructure.RouteSection;
-import Domain.ServiceException;
+import Domain.Entitities.Infrastructure.Route;
+import Domain.Entitities.Infrastructure.RouteSection;
+import Domain.Entitities.Exceptions.ServiceException;
 import Services.Interfaces.IRouteService;
 import be.kdg.se3.services.railway.RouteServiceProxy;
 import org.json.JSONArray;

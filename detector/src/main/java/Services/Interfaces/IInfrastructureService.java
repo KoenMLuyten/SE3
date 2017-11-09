@@ -1,7 +1,7 @@
 package Services.Interfaces;
 
-import Domain.Infrastructure.Section;
-import Domain.ServiceException;
+import Domain.Entitities.Infrastructure.Section;
+import Domain.Entitities.Exceptions.ServiceException;
 
 /*
 * interface representing an adaptation of the provide InfrastructureService

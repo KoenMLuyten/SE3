@@ -1,9 +1,9 @@
 package Services.Implementations;
 
-import Domain.MessageListener;
-import Domain.MessageRecorder;
-import Domain.Messages.IncomingMessageDTO;
-import Domain.ServiceException;
+import Domain.Core.MessageListeners.MessageListener;
+import Domain.Recorder.MessageRecorder;
+import Domain.Entitities.Messages.IncomingMessageDTO;
+import Domain.Entitities.Exceptions.ServiceException;
 import Services.Interfaces.MessageFormatter;
 import com.rabbitmq.client.*;
 import Services.Interfaces.IncomingMessageService;
